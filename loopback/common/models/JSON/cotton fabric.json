@@ -1,0 +1,162 @@
+{
+  "count": 12,
+  "id": "5c7562f11ae3f46ec848f7d0",
+  "_spectemplate": [
+    {
+      "name": "Type",
+      "helpertext": "",
+      "id": "1",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": true
+      },
+      "_specsinfo": {
+        "fields": [
+          "Printed","Floral","cotton shirting","Polyster Cotton","Cotton linen","Cotton kurti","Cotton lycra","Cotton canvas","Cotton poplin","Cotton corduroy","Organic cotton","Others"
+        ]
+      }
+    },
+    {
+      "name": "Pattern",
+      "helpertext": "",
+      "id": "2",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Color",
+      "helpertext": "",
+      "id": "3",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "GSM",
+      "helpertext": "",
+      "id": "4",
+      "_flags": {
+        "optional": true,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["micron"]
+      }
+    },
+    {
+      "name": "Width",
+      "helpertext": "",
+      "id": "5",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["mm"]
+      }
+    },
+    {
+      "name": "Usage",
+      "helpertext": "",
+      "id": "6",
+      "_flags": {
+        "optional": true,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Shrinkage",
+      "helpertext": "",
+      "id": "7",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": true
+      },
+      "_specsinfo": {
+        "fields":["yes","no"]
+      }
+    },
+    {
+      "name": "Minorder",
+      "helpertext": "",
+      "id": "8",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["meters","kg"]
+      }
+    },
+    {
+      "name": "Packagingdetails",
+      "helpertext": "",
+      "id": "9",
+      "_flags": {
+        "optional": true,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Stretchable",
+      "helpertext": "",
+      "id": "10",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": true
+      },
+      "_specsinfo": {
+        "fields":["yes","no"]
+      }
+    },
+    {
+      "name": "Washcare",
+      "helpertext": "",
+      "id": "11",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": true
+      },
+      "_specsinfo": {
+        "fields":[
+          "Machine","Dry clean","Hand Wash"
+        ]
+      }
+    },
+    {
+      "name": "Cost",
+      "helpertext": "",
+      "id": "12",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["Rs per meters","Rs per kg"]
+      }
+    }
+  ]
+}

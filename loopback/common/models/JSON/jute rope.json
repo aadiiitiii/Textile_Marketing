@@ -1,0 +1,96 @@
+{
+  "count": 7,
+  "id": "5c7561611ae3f46ec848f7cb",
+  "_spectemplate": [
+    {
+      "name": "Twist_type",
+      "helpertext": "",
+      "id": "1",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": true
+      },
+      "_specsinfo": {
+        "fields": [
+          "No Twist","Single Twist","Double Twist","Triple Twist","Four Twist","Others"
+          ]
+      }
+    },
+    {
+      "name": "Color",
+      "helpertext": "",
+      "id": "",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Brand",
+      "helpertext": "",
+      "id": "2",
+      "_flags": {
+        "optional": true,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {}
+    },
+    {
+      "name": "Diameter",
+      "helpertext": "",
+      "id": "3",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["mm"]
+      }
+    },
+    {
+      "name": "Quantity_per_bundle",
+      "helpertext": "",
+      "id": "4",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["meters"]
+      }
+    },
+    {
+      "name": "Minorder",
+      "helpertext": "",
+      "id": "5",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["Number of Bundles"]
+      }
+    },
+    {
+      "name": "Cost",
+      "helpertext": "",
+      "id": "6",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["Rs per bundle"]
+      }
+    }
+  ]
+}

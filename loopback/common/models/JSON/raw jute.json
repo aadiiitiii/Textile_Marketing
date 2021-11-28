@@ -1,0 +1,81 @@
+{
+  "count": 6,
+  "id": "5c7560121ae3f46ec848f7c9",
+  "_spectemplate": [
+    {
+      "name": "Color",
+      "helpertext": "",
+      "id": "1",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Brand",
+      "helpertext": "",
+      "id": "2",
+      "_flags": {
+        "optional": true,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Purity",
+      "helpertext": "",
+      "id": "3",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["%"]
+      }
+    },
+    {
+      "name": "Usage",
+      "helpertext": "",
+      "id": "4",
+      "_flags": {
+        "optional": true,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Minorder",
+      "helpertext": "",
+      "id": "5",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["kg"]
+      }
+    },
+    {
+      "name": "Cost",
+      "helpertext": "",
+      "id": "6",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["Rs per kg"]
+      }
+    }
+  ]
+}

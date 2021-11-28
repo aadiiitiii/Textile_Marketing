@@ -1,0 +1,212 @@
+[
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Raw Cotton",
+    "name": "irure",
+    "description": "Sint aliqua enim ex non sit. Dolor ut amet ipsum occaecat do duis sint consequat. Consequat ad magna occaecat incididunt est laboris pariatur ad enim ea irure laborum. Ullamco laborum sunt laboris ea aliquip eu elit pariatur quis enim fugiat.",
+    "rating": 4.2769,
+    "spec_data": {
+      "type": "absorbent/surgical cotton",
+      "color": "brown",
+      "min_quantiy": 73,
+      "cost": 379,
+      "packaging": "Bundle",
+      "quantity_per_pack": 77
+    },
+    "images": [
+      "rawcotton"
+    ],
+    
+    "specificationId": "5c7560de1ae3f46ec848f7ca"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Raw Cotton",
+    "name": "pariatur",
+    "description": "Irure ut reprehenderit ullamco labore in sint quis irure aliqua consectetur. Ea sint sunt officia ea nostrud minim incididunt est laborum aliquip velit in velit. Nulla cillum non laboris consequat quis commodo. Commodo amet velit do eiusmod nisi elit commodo et aliqua deserunt. Sit fugiat excepteur reprehenderit officia aute.",
+    "rating": 1.3758,
+    "spec_data": {
+      "type": "absorbent/surgical cotton",
+      "color": "blue",
+      "min_quantiy": 84,
+      "cost": 431,
+      "packaging": "Bundle",
+      "quantity_per_pack": 68
+    },
+    "images": [
+      "rawcotton"
+    ],
+    
+    "specificationId": "5c7560de1ae3f46ec848f7ca"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Raw Cotton",
+    "name": "nulla",
+    "description": "Est labore sit esse officia elit minim ipsum et duis exercitation consequat dolore aliqua do. Ullamco magna pariatur voluptate aliqua amet ad irure occaecat irure. Ullamco labore Lorem deserunt sint reprehenderit eiusmod deserunt proident voluptate pariatur ex esse tempor sunt. Magna aliquip labore ea sit quis aliqua dolor velit Lorem dolor aliqua. Proident nostrud sit reprehenderit qui esse eu irure officia.",
+    "rating": 0.119,
+    "spec_data": {
+      "type": "Bleached cotton",
+      "color": "blue",
+      "min_quantiy": 88,
+      "cost": 554,
+      "packaging": "Rolls",
+      "quantity_per_pack": 72
+    },
+    "images": [
+      "rawcotton"
+    ],
+    
+    "specificationId": "5c7560de1ae3f46ec848f7ca"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Raw Cotton",
+    "name": "laborum",
+    "description": "Voluptate mollit Lorem nostrud ad culpa non esse ipsum fugiat cupidatat ex eu. Do in voluptate quis consectetur esse. Labore do ullamco in tempor cillum in cupidatat nostrud enim adipisicing ullamco in. Sint laborum ullamco dolore magna reprehenderit cillum. Lorem officia culpa mollit ut minim sunt velit amet. Ad non qui dolor culpa occaecat amet enim sint ipsum ipsum labore cupidatat ex.",
+    "rating": 0.4291,
+    "spec_data": {
+      "type": "absorbent/surgical cotton",
+      "color": "yellow",
+      "min_quantiy": 44,
+      "cost": 229,
+      "packaging": "Bundle",
+      "quantity_per_pack": 77
+    },
+    "images": [
+      "rawcotton"
+    ],
+    
+    "specificationId": "5c7560de1ae3f46ec848f7ca"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Raw Cotton",
+    "name": "occaecat",
+    "description": "Reprehenderit non nostrud in labore. Ullamco nostrud aliqua tempor velit fugiat cillum nulla minim occaecat proident duis. Ut quis qui proident officia in sunt do velit ad sit do sit.",
+    "rating": 2.2385,
+    "spec_data": {
+      "type": "Bleached cotton",
+      "color": "green",
+      "min_quantiy": 35,
+      "cost": 504,
+      "packaging": "Rolls",
+      "quantity_per_pack": 85
+    },
+    "images": [
+      "rawcotton"
+    ],
+    
+    "specificationId": "5c7560de1ae3f46ec848f7ca"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Raw Cotton",
+    "name": "do",
+    "description": "Consequat commodo ea nulla dolor ea laboris consectetur ex ullamco nulla magna in. Dolore laborum deserunt ut aliqua esse aute. Magna mollit anim duis proident aliqua veniam consequat pariatur labore aliquip nostrud labore deserunt consequat. Do ea non culpa exercitation enim. Dolore sint in sint duis aliquip labore reprehenderit officia excepteur ea. Labore elit ullamco minim reprehenderit nostrud magna.",
+    "rating": 4.8096,
+    "spec_data": {
+      "type": "Raw cotton",
+      "color": "brown",
+      "min_quantiy": 63,
+      "cost": 546,
+      "packaging": "Bundle",
+      "quantity_per_pack": 65
+    },
+    "images": [
+      "rawcotton"
+    ],
+    
+    "specificationId": "5c7560de1ae3f46ec848f7ca"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Raw Cotton",
+    "name": "culpa",
+    "description": "Labore nisi tempor ullamco adipisicing laboris in dolore minim cupidatat elit veniam irure dolore. Veniam ad proident dolor elit laborum aute laborum voluptate cillum dolore eiusmod. Aute exercitation et mollit amet enim cillum et reprehenderit velit consectetur elit et sint. Commodo id ut minim sunt fugiat. Minim velit officia eiusmod voluptate fugiat esse voluptate mollit labore ullamco consectetur. Veniam elit est dolore non reprehenderit in dolor commodo irure. Et cupidatat proident amet sit ut ullamco reprehenderit in.",
+    "rating": 2.4316,
+    "spec_data": {
+      "type": "Bleached cotton",
+      "color": "red",
+      "min_quantiy": 79,
+      "cost": 753,
+      "packaging": "Rolls",
+      "quantity_per_pack": 68
+    },
+    "images": [
+      "rawcotton"
+    ],
+    
+    "specificationId": "5c7560de1ae3f46ec848f7ca"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Raw Cotton",
+    "name": "ex",
+    "description": "Qui nisi adipisicing adipisicing laborum. Dolor pariatur proident occaecat commodo est veniam reprehenderit culpa amet. Minim sint pariatur tempor enim Lorem. Mollit commodo nulla labore fugiat id consectetur. Nulla cupidatat elit Lorem minim exercitation amet mollit ullamco labore.",
+    "rating": 4.8437,
+    "spec_data": {
+      "type": "Raw cotton",
+      "color": "yellow",
+      "min_quantiy": 98,
+      "cost": 562,
+      "packaging": "Rolls",
+      "quantity_per_pack": 72
+    },
+    "images": [
+      "rawcotton"
+    ],
+    
+    "specificationId": "5c7560de1ae3f46ec848f7ca"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Raw Cotton",
+    "name": "cupidatat",
+    "description": "Magna cillum et enim dolor mollit non amet. Minim cupidatat cillum nisi duis ex aliqua elit et mollit. Enim ad amet nostrud irure velit veniam.",
+    "rating": 1.2353,
+    "spec_data": {
+      "type": "absorbent/surgical cotton",
+      "color": "yellow",
+      "min_quantiy": 22,
+      "cost": 481,
+      "packaging": "Rolls",
+      "quantity_per_pack": 79
+    },
+    "images": [
+      "rawcotton"
+    ],
+    
+    "specificationId": "5c7560de1ae3f46ec848f7ca"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Raw Cotton",
+    "name": "aliquip",
+    "description": "Do consectetur dolor quis nulla dolor velit ullamco nisi id commodo amet. Ea ex consectetur tempor ea laborum labore sint qui cillum laborum. Ipsum sunt excepteur adipisicing esse et do non irure occaecat.",
+    "rating": 4.1244,
+    "spec_data": {
+      "type": "Bleached cotton",
+      "color": "brown",
+      "min_quantiy": 89,
+      "cost": 414,
+      "packaging": "Rolls",
+      "quantity_per_pack": 66
+    },
+    "images": [
+      "rawcotton"
+    ],
+    
+    "specificationId": "5c7560de1ae3f46ec848f7ca"
+  }
+]

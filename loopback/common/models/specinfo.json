@@ -1,0 +1,24 @@
+{
+  "name": "specinfo",
+  "base": "Model",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "unit": {
+      "type": [
+        "string"
+      ]
+    },
+    "fields": {
+      "type": [
+        "string"
+      ]
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

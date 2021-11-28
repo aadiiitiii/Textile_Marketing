@@ -1,0 +1,95 @@
+{
+  "count": 7,
+  "id": "5c7562711ae3f46ec848f7cf",
+  "_spectemplate": [
+    {
+      "name": "Type",
+      "helpertext": "Cashmere, Angora, Alpaca, etc.",
+      "id": "1",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Color",
+      "helpertext": "",
+      "id": "2",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Fiber_Length",
+      "helpertext": "",
+      "id": "3",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["mm"]
+      }
+    },
+    {
+      "name": "Fineness",
+      "helpertext": "",
+      "id": "4",
+      "_flags": {
+        "optional": true,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["micron"]
+      }
+    },
+    {
+      "name": "Density",
+      "helpertext": "",
+      "id": "5",
+      "_flags": {
+        "optional": true,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["kg/sq.meter"]
+      }
+    },
+    {
+      "name": "Minorder",
+      "helpertext": "",
+      "id": "6",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["meters"]
+      }
+    },
+    {
+      "name": "Cost",
+      "helpertext": "",
+      "id": "7",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["Rs per meter"]
+      }
+    }
+  ]
+}

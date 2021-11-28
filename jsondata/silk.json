@@ -1,0 +1,352 @@
+[
+  {
+    "sellerid": "5c77b389adcc6017630e69a9",
+    "type": "Silk",
+    "sub_type": "",
+    "name": "Lorem",
+    "description": "Consequat sunt pariatur sint ipsum nostrud cillum adipisicing consectetur consectetur ex velit consequat sit veniam. Ad aliqua tempor minim duis pariatur. Sit ex mollit sit cillum sit eiusmod do.",
+    "rating": 4.4022,
+    "spec_data": {
+      "type": "Taffeta",
+      "color": "blue",
+      "brand": "duis",
+      "width": 138,
+      "pattern": "et",
+      "use": "aliqua",
+      "Quantity_per_pack": 64,
+      "cost": 703,
+      "Minorder": 95,
+      "washcare": "Dry clean"
+    },
+    "images": [
+      "silk"
+    ],
+    "id": "5c77e811adcc6017630e6a9d",
+    "specificationId": "5c7561ee1ae3f46ec848f7cd"
+  },
+  {
+    "sellerid": "5c77b389adcc6017630e69a9",
+    "type": "Silk",
+    "sub_type": "",
+    "name": "non",
+    "description": "Sint voluptate ut reprehenderit nulla officia occaecat aliqua. Amet cupidatat minim reprehenderit veniam consectetur. Culpa consectetur adipisicing duis est. Occaecat est quis dolor labore aliqua Lorem veniam incididunt quis fugiat. Aute reprehenderit duis dolor culpa voluptate irure magna et nulla Lorem id anim.",
+    "rating": 3.4037,
+    "spec_data": {
+      "type": "Raw",
+      "color": "blue",
+      "brand": "eu",
+      "width": 95,
+      "pattern": "non",
+      "use": "mollit",
+      "Quantity_per_pack": 26,
+      "cost": 318,
+      "Minorder": 63,
+      "washcare": "Hand Wash"
+    },
+    "images": [
+      "silk"
+    ],
+    "id": "5c77e811adcc6017630e6a9e",
+    "specificationId": "5c7561ee1ae3f46ec848f7cd"
+  },
+  {
+    "sellerid": "5c77b26cadcc6017630e69a4",
+    "type": "Silk",
+    "sub_type": "",
+    "name": "Lorem",
+    "description": "Duis occaecat proident officia sunt consectetur velit dolore amet. Nisi culpa exercitation dolor excepteur dolore. Aute tempor qui eu esse laborum veniam nisi ad. Excepteur reprehenderit eiusmod quis aute commodo aliquip occaecat.",
+    "rating": 3.972,
+    "spec_data": {
+      "type": "Taffeta",
+      "color": "red",
+      "brand": "eiusmod",
+      "width": 117,
+      "pattern": "laboris",
+      "use": "laborum",
+      "Quantity_per_pack": 51,
+      "cost": 489,
+      "Minorder": 36,
+      "washcare": "Dry clean"
+    },
+    "images": [
+      "silk"
+    ],
+    "id": "5c77e811adcc6017630e6a9f",
+    "specificationId": "5c7561ee1ae3f46ec848f7cd"
+  },
+  {
+    "sellerid": "5c77b26cadcc6017630e69a4",
+    "type": "Silk",
+    "sub_type": "",
+    "name": "culpa",
+    "description": "Dolore exercitation cupidatat aliquip et aliquip sunt laboris duis anim ullamco reprehenderit. Enim minim pariatur aliqua nostrud laboris est enim reprehenderit tempor ea amet in non. Officia consequat consectetur ipsum velit adipisicing elit. Minim ut et commodo irure eiusmod exercitation ad tempor ut sit labore esse duis. Pariatur minim eiusmod ex laboris consequat. Enim consectetur do mollit Lorem mollit reprehenderit esse esse magna duis.",
+    "rating": 4.04,
+    "spec_data": {
+      "type": "Tussar",
+      "color": "brown",
+      "brand": "ullamco",
+      "width": 18,
+      "pattern": "proident",
+      "use": "culpa",
+      "Quantity_per_pack": 93,
+      "cost": 520,
+      "Minorder": 91,
+      "washcare": "Dry clean"
+    },
+    "images": [
+      "silk"
+    ],
+    "id": "5c77e811adcc6017630e6aa0",
+    "specificationId": "5c7561ee1ae3f46ec848f7cd"
+  },
+  {
+    "sellerid": "5c77b389adcc6017630e69a9",
+    "type": "Silk",
+    "sub_type": "",
+    "name": "et",
+    "description": "Est aliquip exercitation exercitation non non fugiat consequat do irure minim qui labore. Amet et consequat ullamco est exercitation aliqua esse nulla ipsum ut. Pariatur nulla ipsum laborum labore amet ullamco exercitation.",
+    "rating": 1.5049,
+    "spec_data": {
+      "type": "Cooton silk",
+      "color": "yellow",
+      "brand": "fugiat",
+      "width": 13,
+      "pattern": "officia",
+      "use": "non",
+      "Quantity_per_pack": 67,
+      "cost": 736,
+      "Minorder": 66,
+      "washcare": "Hand Wash"
+    },
+    "images": [
+      "silk"
+    ],
+    "id": "5c77e811adcc6017630e6aa1",
+    "specificationId": "5c7561ee1ae3f46ec848f7cd"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Silk",
+    "sub_type": "",
+    "name": "magna",
+    "description": "Quis aute quis excepteur proident fugiat qui veniam eu consectetur nisi et ipsum incididunt ad. Excepteur tempor irure nisi eiusmod. Ad magna in sunt esse est amet elit veniam veniam irure. Incididunt deserunt fugiat ex nostrud magna in qui fugiat. In irure proident irure ad labore ullamco velit enim et proident sunt.",
+    "rating": 1.0531,
+    "spec_data": {
+      "type": "eri",
+      "color": "brown",
+      "brand": "laboris",
+      "width": 31,
+      "pattern": "cillum",
+      "use": "eu",
+      "Quantity_per_pack": 30,
+      "cost": 421,
+      "Minorder": 57,
+      "washcare": "Hand Wash"
+    },
+    "images": [
+      "silk"
+    ],
+    "id": "5c77e811adcc6017630e6aa2",
+    "specificationId": "5c7561ee1ae3f46ec848f7cd"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Silk",
+    "sub_type": "",
+    "name": "esse",
+    "description": "Lorem deserunt minim reprehenderit Lorem adipisicing. Est qui consequat ipsum id magna ullamco irure do anim minim eiusmod labore. Quis mollit do pariatur aliquip id nulla officia laboris occaecat. Anim quis sint occaecat excepteur occaecat. Occaecat cupidatat nostrud id eu duis enim amet dolore ea minim velit magna ullamco laborum. Excepteur eu laborum velit eiusmod irure cupidatat elit esse esse. Nulla cupidatat ut magna velit incididunt duis.",
+    "rating": 0.5816,
+    "spec_data": {
+      "type": "Dupian",
+      "color": "yellow",
+      "brand": "fugiat",
+      "width": 19,
+      "pattern": "minim",
+      "use": "pariatur",
+      "Quantity_per_pack": 90,
+      "cost": 403,
+      "Minorder": 75,
+      "washcare": "Hand Wash"
+    },
+    "images": [
+      "silk"
+    ],
+    "id": "5c77e811adcc6017630e6aa3",
+    "specificationId": "5c7561ee1ae3f46ec848f7cd"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Silk",
+    "sub_type": "",
+    "name": "veniam",
+    "description": "Nulla laborum aute dolore consequat culpa ut sit aliqua minim qui. Laboris aute cupidatat duis eiusmod eu elit culpa proident est proident proident. Esse mollit est voluptate laborum reprehenderit laboris id quis duis sit esse sint.",
+    "rating": 0.2699,
+    "spec_data": {
+      "type": "Muga",
+      "color": "green",
+      "brand": "excepteur",
+      "width": 98,
+      "pattern": "elit",
+      "use": "aliquip",
+      "Quantity_per_pack": 45,
+      "cost": 783,
+      "Minorder": 98,
+      "washcare": "Hand Wash"
+    },
+    "images": [
+      "silk"
+    ],
+    "id": "5c77e811adcc6017630e6aa4",
+    "specificationId": "5c7561ee1ae3f46ec848f7cd"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Silk",
+    "sub_type": "",
+    "name": "id",
+    "description": "Excepteur labore culpa amet tempor ad consequat do est ex nostrud adipisicing. Cillum cupidatat nisi voluptate incididunt elit magna duis commodo cillum cillum cupidatat anim commodo aliqua. Deserunt fugiat sit fugiat reprehenderit duis id minim reprehenderit laboris aliquip ullamco. Dolore culpa pariatur sunt dolor. Sunt et consectetur ipsum aliqua sit ullamco aliquip. Sit non voluptate do veniam ullamco ipsum aliquip cillum officia sint amet irure dolor aliqua. Commodo adipisicing amet ullamco duis laborum dolore culpa.",
+    "rating": 2.0553,
+    "spec_data": {
+      "type": "others",
+      "color": "green",
+      "brand": "nisi",
+      "width": 68,
+      "pattern": "enim",
+      "use": "sunt",
+      "Quantity_per_pack": 73,
+      "cost": 399,
+      "Minorder": 73,
+      "washcare": "Hand Wash"
+    },
+    "images": [
+      "silk"
+    ],
+    "id": "5c77e811adcc6017630e6aa5",
+    "specificationId": "5c7561ee1ae3f46ec848f7cd"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Silk",
+    "sub_type": "",
+    "name": "adipisicing",
+    "description": "Amet magna consectetur proident aute. Pariatur minim veniam eu ea quis enim velit veniam occaecat cupidatat est aliqua tempor anim. Est enim officia et dolore irure pariatur Lorem. Magna ea aute occaecat deserunt non duis enim. Ullamco officia ea amet duis aute dolore laborum exercitation ad. Exercitation aliqua ullamco labore qui exercitation. Voluptate eu amet cupidatat sit duis laboris ullamco consequat nostrud id adipisicing.",
+    "rating": 1.5393,
+    "spec_data": {
+      "type": "Cooton silk",
+      "color": "red",
+      "brand": "id",
+      "width": 25,
+      "pattern": "voluptate",
+      "use": "nisi",
+      "Quantity_per_pack": 35,
+      "cost": 461,
+      "Minorder": 46,
+      "washcare": "Dry clean"
+    },
+    "images": [
+      "silk"
+    ],
+    "id": "5c77e811adcc6017630e6aa6",
+    "specificationId": "5c7561ee1ae3f46ec848f7cd"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Silk",
+    "sub_type": "",
+    "name": "excepteur",
+    "description": "Labore aliquip ipsum ullamco velit aliquip amet ullamco pariatur laborum fugiat nostrud in aliqua. Dolor non ad ipsum aliquip. Culpa eiusmod officia anim ea dolor do adipisicing veniam aute nisi. Eiusmod esse eiusmod aliqua dolore cillum magna dolor id irure occaecat proident laborum. Qui est ex duis ut aute amet pariatur culpa reprehenderit quis enim proident.",
+    "rating": 3.8156,
+    "spec_data": {
+      "type": "others",
+      "color": "brown",
+      "brand": "Lorem",
+      "width": 153,
+      "pattern": "dolor",
+      "use": "ipsum",
+      "Quantity_per_pack": 50,
+      "cost": 714,
+      "Minorder": 78,
+      "washcare": "Hand Wash"
+    },
+    "images": [
+      "silk"
+    ],
+    "id": "5c77e811adcc6017630e6aa7",
+    "specificationId": "5c7561ee1ae3f46ec848f7cd"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Silk",
+    "sub_type": "",
+    "name": "exercitation",
+    "description": "Labore consectetur eu veniam non dolor nulla officia deserunt. Duis nulla id amet ea irure consectetur in anim quis amet nulla culpa. Irure minim ut id nulla nulla aliqua aute exercitation deserunt cillum magna eiusmod. Quis deserunt dolore duis labore ut.",
+    "rating": 2.2633,
+    "spec_data": {
+      "type": "Tussar",
+      "color": "brown",
+      "brand": "nostrud",
+      "width": 110,
+      "pattern": "elit",
+      "use": "eiusmod",
+      "Quantity_per_pack": 81,
+      "cost": 741,
+      "Minorder": 65,
+      "washcare": "Hand Wash"
+    },
+    "images": [
+      "silk"
+    ],
+    "id": "5c77e811adcc6017630e6aa8",
+    "specificationId": "5c7561ee1ae3f46ec848f7cd"
+  },
+  {
+    "sellerid": "5c77b26cadcc6017630e69a4",
+    "type": "Silk",
+    "sub_type": "",
+    "name": "aliqua",
+    "description": "Occaecat quis ad veniam quis. Adipisicing sunt ipsum ex reprehenderit incididunt proident sit nostrud reprehenderit eiusmod ullamco anim incididunt. Consectetur ut occaecat fugiat ea commodo officia do aute. Ullamco eiusmod ipsum veniam veniam est adipisicing.",
+    "rating": 1.9765,
+    "spec_data": {
+      "type": "Dupian",
+      "color": "yellow",
+      "brand": "aute",
+      "width": 172,
+      "pattern": "adipisicing",
+      "use": "labore",
+      "Quantity_per_pack": 26,
+      "cost": 432,
+      "Minorder": 30,
+      "washcare": "Hand Wash"
+    },
+    "images": [
+      "silk"
+    ],
+    "id": "5c77e811adcc6017630e6aa9",
+    "specificationId": "5c7561ee1ae3f46ec848f7cd"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Silk",
+    "sub_type": "",
+    "name": "occaecat",
+    "description": "Cupidatat excepteur eiusmod Lorem enim. Dolore tempor est fugiat ipsum fugiat laboris adipisicing occaecat ad Lorem commodo dolore veniam. Culpa pariatur velit eiusmod voluptate consectetur id in officia incididunt laboris est. Esse id consectetur duis tempor fugiat cupidatat culpa. Quis nisi occaecat tempor labore elit consectetur aliquip laborum et culpa consequat eu ullamco veniam. Proident reprehenderit fugiat amet voluptate nulla aliqua nostrud irure ad eu aliquip ullamco.",
+    "rating": 1.9602,
+    "spec_data": {
+      "type": "Banarasi",
+      "color": "red",
+      "brand": "sunt",
+      "width": 186,
+      "pattern": "nostrud",
+      "use": "sunt",
+      "Quantity_per_pack": 48,
+      "cost": 327,
+      "Minorder": 83,
+      "washcare": "Hand Wash"
+    },
+    "images": [
+      "silk"
+    ],
+    "id": "5c77e811adcc6017630e6aaa",
+    "specificationId": "5c7561ee1ae3f46ec848f7cd"
+  }
+]

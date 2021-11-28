@@ -1,0 +1,29 @@
+{
+  "name": "flag",
+  "base": "Model",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "optional": {
+      "type": "boolean",
+      "required": true,
+      "default": false
+    },
+    "unit": {
+      "type": "boolean",
+      "required": true,
+      "default": false
+    },
+    "fields": {
+      "type": "boolean",
+      "required": true,
+      "default": false
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

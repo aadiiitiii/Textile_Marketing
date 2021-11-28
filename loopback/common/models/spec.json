@@ -1,0 +1,45 @@
+{
+  "name": "spec",
+  "base": "Model",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "forceId": false,
+  "excludeBaseProperties": [
+    "id"
+  ],
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "helpertext": {
+      "type": "string",
+      "default": ""
+    }
+  },
+  "validations": [],
+  "relations": {
+    "flags": {
+      "type": "embedsOne",
+      "model": "flag",
+      "property": "flags",
+      "options": {
+        "validate": true,
+        "forceId": false
+      }
+    },
+    "specsinfo": {
+      "type": "embedsOne",
+      "model": "specinfo",
+      "property": "specsinfo",
+      "options": {
+        "validate": true,
+        "forceId": false
+      }
+    }
+  },
+  "acls": [],
+  "methods": {}
+}

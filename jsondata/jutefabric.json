@@ -1,0 +1,342 @@
+[
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Jute",
+    "sub_type": "Jute Fabric",
+    "name": "eiusmod",
+    "description": "Excepteur anim amet ut magna ex labore ea officia veniam magna qui. Elit nostrud ut consequat non exercitation sit ad eu dolor ad labore dolor. Nulla aliquip officia dolor fugiat. Ad tempor nostrud incididunt aliqua et proident esse laboris deserunt consequat magna. Sunt et anim consectetur et aliqua. Enim quis commodo proident in laboris amet est eiusmod in proident eiusmod fugiat.",
+    "rating": 3.4181,
+    "spec_data": {
+      "color": "blue",
+      "brand": "adipisicing",
+      "min_order_quantiy": 18,
+      "cost": 305,
+      "washcare": "Dry clean"
+    },
+    "images": [
+      "jutefabric"
+    ],
+    "id": "5c77e693adcc6017630e6a48",
+    "specificationId": "5c7566db1ae3f46ec848f7d3"
+  },
+  {
+    "sellerid": "5c77b389adcc6017630e69a9",
+    "type": "Jute",
+    "sub_type": "Jute Fabric",
+    "name": "labore",
+    "description": "Ut nisi nulla amet laborum eu veniam irure est ipsum ullamco voluptate qui aliqua magna. Sunt ex labore nisi consectetur occaecat minim dolore incididunt velit nulla esse minim do. Veniam et dolor ea laborum adipisicing consectetur quis dolor id ea fugiat. Et commodo magna in ad nulla eiusmod aute enim velit dolore velit est. Laboris sint eu consequat nulla minim tempor eu culpa tempor. Eu proident ex quis mollit mollit voluptate. Enim occaecat officia veniam cillum eu irure aute reprehenderit.",
+    "rating": 3.7402,
+    "spec_data": {
+      "color": "red",
+      "brand": "esse",
+      "min_order_quantiy": 29,
+      "cost": 358,
+      "washcare": "Hand Wash"
+    },
+    "images": [
+      "jutefabric"
+    ],
+    "id": "5c77e693adcc6017630e6a49",
+    "specificationId": "5c7566db1ae3f46ec848f7d3"
+  },
+  {
+    "sellerid": "5c77b2e2adcc6017630e69a5",
+    "type": "Jute",
+    "sub_type": "Jute Fabric",
+    "name": "excepteur",
+    "description": "Aliqua anim incididunt ex amet ea ullamco Lorem ut sint ipsum anim. Exercitation Lorem quis cupidatat id deserunt enim adipisicing dolor do exercitation. In excepteur dolor et cillum. Qui cupidatat ipsum irure elit labore sint nisi Lorem nisi fugiat tempor.",
+    "rating": 1.3026,
+    "spec_data": {
+      "color": "brown",
+      "brand": "deserunt",
+      "min_order_quantiy": 96,
+      "cost": 731,
+      "washcare": "Hand Wash"
+    },
+    "images": [
+      "jutefabric"
+    ],
+    "id": "5c77e693adcc6017630e6a4a",
+    "specificationId": "5c7566db1ae3f46ec848f7d3"
+  },
+  {
+    "sellerid": "5c77b2e2adcc6017630e69a5",
+    "type": "Jute",
+    "sub_type": "Jute Fabric",
+    "name": "aute",
+    "description": "Consequat veniam culpa mollit eiusmod minim enim sit velit aute et magna dolore irure sit. Qui commodo quis ut in enim. Elit magna laboris ullamco dolor consectetur laboris sint et qui non sit. Dolore aliquip ea laboris est dolore Lorem qui exercitation esse labore. Mollit exercitation elit consectetur aliquip incididunt aliqua ullamco occaecat commodo do qui laborum.",
+    "rating": 4.5572,
+    "spec_data": {
+      "color": "yellow",
+      "brand": "cillum",
+      "min_order_quantiy": 99,
+      "cost": 452,
+      "washcare": "Hand Wash"
+    },
+    "images": [
+      "jutefabric"
+    ],
+    "id": "5c77e693adcc6017630e6a4b",
+    "specificationId": "5c7566db1ae3f46ec848f7d3"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Jute",
+    "sub_type": "Jute Fabric",
+    "name": "commodo",
+    "description": "Voluptate pariatur commodo qui fugiat excepteur minim proident id aliqua irure nostrud cillum occaecat ut. Veniam laborum labore officia nisi ea sunt labore sit do in quis do et irure. Consectetur aliqua nisi labore eu et exercitation consequat. Id ipsum eiusmod irure pariatur laborum minim cupidatat laborum tempor mollit nulla et.",
+    "rating": 2.2533,
+    "spec_data": {
+      "color": "brown",
+      "brand": "nostrud",
+      "min_order_quantiy": 99,
+      "cost": 595,
+      "washcare": "Machine"
+    },
+    "images": [
+      "jutefabric"
+    ],
+    "id": "5c77e693adcc6017630e6a4c",
+    "specificationId": "5c7566db1ae3f46ec848f7d3"
+  },
+  {
+    "sellerid": "5c77b2e2adcc6017630e69a5",
+    "type": "Jute",
+    "sub_type": "Jute Fabric",
+    "name": "tempor",
+    "description": "Lorem magna aliqua irure sunt laboris Lorem. Aute excepteur est id amet commodo pariatur consectetur anim et. Esse quis esse consectetur adipisicing qui voluptate non commodo nostrud dolor. Laboris ipsum velit ad magna irure in sunt. Voluptate tempor cupidatat voluptate sunt tempor consectetur nisi elit tempor ipsum consectetur pariatur. Qui proident amet ad voluptate non. Laborum dolore non quis dolor laborum velit aute ullamco fugiat sit.",
+    "rating": 3.9021,
+    "spec_data": {
+      "color": "yellow",
+      "brand": "mollit",
+      "min_order_quantiy": 32,
+      "cost": 581,
+      "washcare": "Hand Wash"
+    },
+    "images": [
+      "jutefabric"
+    ],
+    "id": "5c77e693adcc6017630e6a4d",
+    "specificationId": "5c7566db1ae3f46ec848f7d3"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Jute",
+    "sub_type": "Jute Fabric",
+    "name": "consectetur",
+    "description": "Irure ex reprehenderit id incididunt magna eu consectetur id in nostrud fugiat. Lorem amet sunt elit do et deserunt sint. Lorem ex minim cillum cillum. Eiusmod laborum Lorem pariatur anim aliqua amet enim dolore ad esse id.",
+    "rating": 2.5646,
+    "spec_data": {
+      "color": "blue",
+      "brand": "enim",
+      "min_order_quantiy": 29,
+      "cost": 534,
+      "washcare": "Dry clean"
+    },
+    "images": [
+      "jutefabric"
+    ],
+    "id": "5c77e693adcc6017630e6a4e",
+    "specificationId": "5c7566db1ae3f46ec848f7d3"
+  },
+  {
+    "sellerid": "5c77b2e2adcc6017630e69a5",
+    "type": "Jute",
+    "sub_type": "Jute Fabric",
+    "name": "labore",
+    "description": "Velit reprehenderit aute pariatur est nostrud nulla aliqua mollit. Magna fugiat nisi tempor cupidatat laboris irure consectetur. Reprehenderit nulla eiusmod consectetur est ut occaecat ex deserunt veniam mollit duis. Nostrud ut voluptate nulla adipisicing anim sunt dolor veniam. Culpa irure minim qui dolore. Cillum laborum commodo anim cupidatat eiusmod velit consectetur. Lorem enim cillum cupidatat minim minim occaecat nostrud.",
+    "rating": 2.1857,
+    "spec_data": {
+      "color": "blue",
+      "brand": "ea",
+      "min_order_quantiy": 23,
+      "cost": 217,
+      "washcare": "Dry clean"
+    },
+    "images": [
+      "jutefabric"
+    ],
+    "id": "5c77e693adcc6017630e6a4f",
+    "specificationId": "5c7566db1ae3f46ec848f7d3"
+  },
+  {
+    "sellerid": "5c77b2e2adcc6017630e69a5",
+    "type": "Jute",
+    "sub_type": "Jute Fabric",
+    "name": "eiusmod",
+    "description": "Est irure id nulla dolor aliqua cillum tempor. Exercitation velit aliquip et irure laborum id ullamco dolor pariatur excepteur duis ex sint ad. Sunt duis laboris sint id ad velit eu veniam ipsum irure eu nostrud sint qui. Minim pariatur velit est commodo.",
+    "rating": 2.7813,
+    "spec_data": {
+      "color": "red",
+      "brand": "quis",
+      "min_order_quantiy": 72,
+      "cost": 345,
+      "washcare": "Hand Wash"
+    },
+    "images": [
+      "jutefabric"
+    ],
+    "id": "5c77e693adcc6017630e6a50",
+    "specificationId": "5c7566db1ae3f46ec848f7d3"
+  },
+  {
+    "sellerid": "5c77b26cadcc6017630e69a4",
+    "type": "Jute",
+    "sub_type": "Jute Fabric",
+    "name": "labore",
+    "description": "Lorem adipisicing aute adipisicing incididunt officia irure ad excepteur. Consectetur aliqua exercitation tempor exercitation magna fugiat duis sit ipsum dolor nisi. Occaecat minim eiusmod culpa non commodo duis ad ad non velit. Officia tempor officia nulla veniam anim.",
+    "rating": 1.661,
+    "spec_data": {
+      "color": "yellow",
+      "brand": "pariatur",
+      "min_order_quantiy": 28,
+      "cost": 313,
+      "washcare": "Dry clean"
+    },
+    "images": [
+      "jutefabric"
+    ],
+    "id": "5c77e693adcc6017630e6a51",
+    "specificationId": "5c7566db1ae3f46ec848f7d3"
+  },
+  {
+    "sellerid": "5c77b26cadcc6017630e69a4",
+    "type": "Jute",
+    "sub_type": "Jute Fabric",
+    "name": "ut",
+    "description": "Consequat non amet minim aliqua irure proident ex elit anim nulla. Voluptate id elit irure adipisicing. Pariatur adipisicing officia Lorem in nostrud ea et. Eu id occaecat in occaecat incididunt eiusmod ea tempor proident. Quis dolor sint ullamco ullamco.",
+    "rating": 0.3968,
+    "spec_data": {
+      "color": "green",
+      "brand": "ut",
+      "min_order_quantiy": 59,
+      "cost": 588,
+      "washcare": "Machine"
+    },
+    "images": [
+      "jutefabric"
+    ],
+    "id": "5c77e693adcc6017630e6a52",
+    "specificationId": "5c7566db1ae3f46ec848f7d3"
+  },
+  {
+    "sellerid": "5c77b26cadcc6017630e69a4",
+    "type": "Jute",
+    "sub_type": "Jute Fabric",
+    "name": "commodo",
+    "description": "Minim cupidatat in nulla aliquip amet Lorem. In qui laborum Lorem minim ea consequat. Occaecat commodo enim minim consectetur.",
+    "rating": 3.9156,
+    "spec_data": {
+      "color": "brown",
+      "brand": "elit",
+      "min_order_quantiy": 24,
+      "cost": 567,
+      "washcare": "Hand Wash"
+    },
+    "images": [
+      "jutefabric"
+    ],
+    "id": "5c77e693adcc6017630e6a53",
+    "specificationId": "5c7566db1ae3f46ec848f7d3"
+  },
+  {
+    "sellerid": "5c77b2e2adcc6017630e69a5",
+    "type": "Jute",
+    "sub_type": "Jute Fabric",
+    "name": "irure",
+    "description": "Quis Lorem Lorem sit pariatur consectetur ea nisi voluptate anim laboris anim esse. Consectetur ex pariatur nostrud elit deserunt sint duis ea. Aliqua eu veniam mollit dolor in consequat deserunt magna. Adipisicing anim cupidatat reprehenderit consequat ipsum et cupidatat. Cillum laborum ut dolore pariatur duis sunt. Proident veniam incididunt nisi cillum labore dolore elit.",
+    "rating": 2.0038,
+    "spec_data": {
+      "color": "brown",
+      "brand": "cillum",
+      "min_order_quantiy": 41,
+      "cost": 570,
+      "washcare": "Dry clean"
+    },
+    "images": [
+      "jutefabric"
+    ],
+    "id": "5c77e693adcc6017630e6a54",
+    "specificationId": "5c7566db1ae3f46ec848f7d3"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Jute",
+    "sub_type": "Jute Fabric",
+    "name": "duis",
+    "description": "Voluptate quis pariatur eiusmod deserunt culpa sit tempor dolore sunt est. Voluptate magna anim labore cupidatat occaecat laborum reprehenderit Lorem cillum aliquip aute occaecat exercitation sint. Adipisicing dolore proident ea in aliqua amet voluptate amet laborum. Proident enim aute ea ut velit laborum id eu minim fugiat ad. Sunt sunt id elit excepteur cillum. Commodo enim do et adipisicing ad incididunt amet dolore. Duis laborum ut laborum enim laborum reprehenderit ullamco fugiat reprehenderit.",
+    "rating": 1.6584,
+    "spec_data": {
+      "color": "green",
+      "brand": "laboris",
+      "min_order_quantiy": 56,
+      "cost": 504,
+      "washcare": "Hand Wash"
+    },
+    "images": [
+      "jutefabric"
+    ],
+    "id": "5c77e693adcc6017630e6a55",
+    "specificationId": "5c7566db1ae3f46ec848f7d3"
+  },
+  {
+    "sellerid": "5c77b2e2adcc6017630e69a5",
+    "type": "Jute",
+    "sub_type": "Jute Fabric",
+    "name": "mollit",
+    "description": "Enim pariatur fugiat mollit non amet consequat laborum cupidatat esse. Et reprehenderit commodo dolor elit id aliqua occaecat in sint. Tempor laborum aliqua tempor veniam dolore elit id. Aliqua velit aliquip reprehenderit excepteur in ipsum. Et sit eiusmod do reprehenderit est anim irure eiusmod ad officia eu. Lorem ex ut pariatur do commodo elit in labore ullamco ex do ex.",
+    "rating": 3.6314,
+    "spec_data": {
+      "color": "blue",
+      "brand": "ut",
+      "min_order_quantiy": 67,
+      "cost": 697,
+      "washcare": "Hand Wash"
+    },
+    "images": [
+      "jutefabric"
+    ],
+    "id": "5c77e693adcc6017630e6a56",
+    "specificationId": "5c7566db1ae3f46ec848f7d3"
+  },
+  {
+    "sellerid": "5c77b389adcc6017630e69a9",
+    "type": "Jute",
+    "sub_type": "Jute Fabric",
+    "name": "in",
+    "description": "Ex commodo deserunt eu commodo. Labore cupidatat ea cillum laboris dolor. Ex et et fugiat excepteur excepteur pariatur voluptate ex labore mollit. Ipsum ad eu magna ea et adipisicing amet. Eiusmod et dolor aute enim cillum tempor culpa labore sunt. Id aliquip ex magna adipisicing Lorem amet incididunt esse excepteur. Dolore id sunt aliqua enim qui irure laboris adipisicing anim enim veniam eu aliqua ea.",
+    "rating": 0.4582,
+    "spec_data": {
+      "color": "green",
+      "brand": "excepteur",
+      "min_order_quantiy": 28,
+      "cost": 781,
+      "washcare": "Machine"
+    },
+    "images": [
+      "jutefabric"
+    ],
+    "id": "5c77e693adcc6017630e6a57",
+    "specificationId": "5c7566db1ae3f46ec848f7d3"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Jute",
+    "sub_type": "Jute Fabric",
+    "name": "esse",
+    "description": "Mollit quis qui eiusmod deserunt cupidatat minim. Nostrud proident anim eiusmod nisi ut adipisicing aliqua minim occaecat culpa. Labore incididunt sint exercitation esse occaecat. Labore est mollit nisi culpa ea anim fugiat in. Minim non reprehenderit pariatur do. Proident esse sunt aliquip sunt sunt esse exercitation aute voluptate qui aliqua in. Sunt cillum velit duis quis sunt qui enim adipisicing reprehenderit sint.",
+    "rating": 4.92,
+    "spec_data": {
+      "color": "brown",
+      "brand": "excepteur",
+      "min_order_quantiy": 31,
+      "cost": 567,
+      "washcare": "Dry clean"
+    },
+    "images": [
+      "jutefabric"
+    ],
+    "id": "5c77e693adcc6017630e6a58",
+    "specificationId": "5c7566db1ae3f46ec848f7d3"
+  }
+]

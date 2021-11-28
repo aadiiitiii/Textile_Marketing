@@ -1,0 +1,83 @@
+{
+  "count": 6,
+  "id": "5c755cde1ae3f46ec848f7c5",
+  "_spectemplate": [
+    {
+      "id": "1",
+      "name": "Color",
+      "helpertext": "",
+
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {}
+    },
+    {
+      "name": "Usage",
+      "helpertext": "",
+      "id": "2",
+      "_flags": {
+        "optional": true,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {}
+    },
+    {
+      "name": "Stretchable",
+      "helpertext": "",
+      "id": "3",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": true
+      },
+      "_specsinfo": {
+        "fields":["yes","no"]
+      }
+    },
+    {
+      "name": "Washcare",
+      "helpertext": "",
+      "id": "4",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": true
+      },
+      "_specsinfo": {
+        "fields":[
+          "Machine","Dry clean","Hand Wash"
+        ]
+      }
+    },
+    {
+      "name": "Minorder",
+      "helpertext": "",
+      "id": "5",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["meters"]
+      }
+    },
+    {
+      "name": "Cost",
+      "helpertext": "",
+      "id": "6",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["Rs per meter"]
+      }
+    }
+  ]
+}

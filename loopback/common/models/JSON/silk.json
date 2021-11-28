@@ -1,0 +1,148 @@
+{
+  "count": 11,
+  "id": "5c7561ee1ae3f46ec848f7cd",
+  "_spectemplate": [
+    {
+      "name": "Type",
+      "helpertext": "",
+      "id": "1",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": true
+      },
+      "_specsinfo": {
+        "fields": [
+          "Taffeta","Tussar","Dupian","Chanderi","Cooton silk","Mulberry","Banarasi","Raw","Muga","eri","others"
+        ]
+      }
+    },
+    {
+      "name": "Color",
+      "helpertext": "",
+      "id": "2",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Width",
+      "helpertext": "",
+      "id": "3",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["mm"]
+      }
+    },
+    {
+      "name": "Use",
+      "helpertext": "",
+      "id": "4",
+      "_flags": {
+        "optional": true,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Pattern",
+      "helpertext": "",
+      "id": "5",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Brand",
+      "helpertext": "",
+      "id": "6",
+      "_flags": {
+        "optional": true,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Quantity_per_Pack",
+      "helpertext": "",
+      "id": "7",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit":["meters"]
+      }
+    },
+    {
+      "name": "Minorder",
+      "helpertext": "",
+      "id": "8",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit":["Number of Packs"]
+      }
+    },
+    {
+      "name": "Packagingdetails",
+      "helpertext": "",
+      "id": "9",
+      "_flags": {
+        "optional": true,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Washcare",
+      "helpertext": "",
+      "id": "10",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": true
+      },
+      "_specsinfo": {
+        "fields":[
+          "Machine","Dry clean","Hand Wash"
+        ]
+      }
+    },
+    {
+      "name": "Cost",
+      "helpertext": "",
+      "id": "11",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["Rs per pack"]
+      }
+    }
+  ]
+}

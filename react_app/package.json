@@ -1,0 +1,67 @@
+{
+  "name": "react_app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.9.2",
+    "@material-ui/icons": "^3.0.2",
+    "@pusher/chatkit-client": "^1.3.2",
+    "axios": "^0.18.0",
+    "material-ui": "^1.0.0-beta.47",
+    "material-ui-rating": "^3.0.0",
+    "minisearch": "^1.2.0",
+    "paypal-checkout": "^4.0.259",
+    "prop-types": "^15.7.2",
+    "pusher-js": "^4.4.0",
+    "react": "^16.8.2",
+    "react-async-script-loader": "^0.3.0",
+    "react-dom": "^16.8.2",
+    "react-file-reader": "^1.1.4",
+    "react-images-upload": "^1.2.6",
+    "react-multilingual": "^1.5.0",
+    "react-native-payment-gateway": "^0.4.3",
+    "react-payment-request-api": "^3.1.0",
+    "react-paystack": "^2.0.2",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.5",
+    "react-twitter-embed": "^2.0.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "eslint": "^5.12.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^4.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.12.4",
+    "husky": "^1.3.1",
+    "lint-staged": "^8.1.4",
+    "prettier": "^1.16.4",
+    "pretty-quick": "^1.10.0"
+  },
+  "husky": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.{js,jsx}": [
+      "pretty-quick --staged",
+      "eslint src/ --fix",
+      "git add"
+    ]
+  }
+}

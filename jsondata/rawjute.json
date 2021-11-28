@@ -1,0 +1,262 @@
+[
+  {
+    "sellerid": "5c77b2e2adcc6017630e69a5",
+    "type": "Jute",
+    "sub_type": "Raw Jute",
+    "name": "et",
+    "description": "Adipisicing magna officia ex duis irure. Eiusmod ullamco consequat nulla est in duis enim eiusmod mollit ad sunt excepteur ut. Veniam enim in aliqua tempor cillum pariatur amet nulla aliqua amet. Adipisicing do proident anim amet proident aliquip fugiat dolore Lorem sint tempor ipsum commodo deserunt. Incididunt ex irure occaecat cillum Lorem ut nisi exercitation enim ut.",
+    "rating": 1.1166,
+    "spec_data": {
+      "color": "brown",
+      "brand": "consequat",
+      "min_order_quantiy": 32,
+      "cost": 607,
+      "purity": 57
+    },
+    "images": [
+      "rawjute"
+    ],
+    "id": "5c77e7b7adcc6017630e6a84",
+    "specificationId": "5c7560121ae3f46ec848f7c9"
+  },
+  {
+    "sellerid": "5c77b2e2adcc6017630e69a5",
+    "type": "Jute",
+    "sub_type": "Raw Jute",
+    "name": "laboris",
+    "description": "Eiusmod fugiat consectetur quis et est nulla veniam sint. Sit ex culpa nostrud sint deserunt reprehenderit ad ipsum velit ex non Lorem ipsum. Exercitation exercitation excepteur commodo commodo pariatur nostrud ut fugiat id exercitation laborum.",
+    "rating": 2.6964,
+    "spec_data": {
+      "color": "red",
+      "brand": "eu",
+      "min_order_quantiy": 82,
+      "cost": 679,
+      "purity": 62
+    },
+    "images": [
+      "rawjute"
+    ],
+    "id": "5c77e7b7adcc6017630e6a85",
+    "specificationId": "5c7560121ae3f46ec848f7c9"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Jute",
+    "sub_type": "Raw Jute",
+    "name": "reprehenderit",
+    "description": "Cillum ut labore ad commodo magna eiusmod fugiat. Quis magna sunt tempor dolor duis culpa exercitation. Fugiat est eiusmod veniam commodo nisi ad tempor eiusmod Lorem.",
+    "rating": 1.7054,
+    "spec_data": {
+      "color": "brown",
+      "brand": "excepteur",
+      "min_order_quantiy": 65,
+      "cost": 270,
+      "purity": 60
+    },
+    "images": [
+      "rawjute"
+    ],
+    "id": "5c77e7b7adcc6017630e6a86",
+    "specificationId": "5c7560121ae3f46ec848f7c9"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Jute",
+    "sub_type": "Raw Jute",
+    "name": "id",
+    "description": "Veniam sit quis commodo aliqua sunt amet irure esse. Magna Lorem nisi sit elit quis elit ullamco dolor. Commodo ea ad est magna consequat dolore nostrud minim sit fugiat nulla dolore cillum.",
+    "rating": 0.3644,
+    "spec_data": {
+      "color": "red",
+      "brand": "proident",
+      "min_order_quantiy": 79,
+      "cost": 408,
+      "purity": 38
+    },
+    "images": [
+      "rawjute"
+    ],
+    "id": "5c77e7b7adcc6017630e6a87",
+    "specificationId": "5c7560121ae3f46ec848f7c9"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Jute",
+    "sub_type": "Raw Jute",
+    "name": "enim",
+    "description": "Tempor nostrud qui cupidatat adipisicing. Ea id qui consequat aliqua cillum veniam. Quis ut exercitation qui magna laboris nostrud consequat in qui ea aliquip quis anim cillum.",
+    "rating": 3.0773,
+    "spec_data": {
+      "color": "green",
+      "brand": "proident",
+      "min_order_quantiy": 49,
+      "cost": 796,
+      "purity": 63
+    },
+    "images": [
+      "rawjute"
+    ],
+    "id": "5c77e7b7adcc6017630e6a88",
+    "specificationId": "5c7560121ae3f46ec848f7c9"
+  },
+  {
+    "sellerid": "5c77b2e2adcc6017630e69a5",
+    "type": "Jute",
+    "sub_type": "Raw Jute",
+    "name": "nisi",
+    "description": "Excepteur do laborum est aute esse esse proident enim duis. Nisi ipsum do enim ea cupidatat. Nulla consequat exercitation ut do exercitation irure minim fugiat tempor ut qui quis anim. Commodo tempor culpa enim ex consectetur nostrud eiusmod consectetur Lorem. Quis aliquip elit id ad consectetur officia nostrud dolor proident eu ipsum aute. Anim elit incididunt occaecat ea pariatur Lorem voluptate do.",
+    "rating": 4.2984,
+    "spec_data": {
+      "color": "red",
+      "brand": "officia",
+      "min_order_quantiy": 50,
+      "cost": 249,
+      "purity": 36
+    },
+    "images": [
+      "rawjute"
+    ],
+    "id": "5c77e7b7adcc6017630e6a89",
+    "specificationId": "5c7560121ae3f46ec848f7c9"
+  },
+  {
+    "sellerid": "5c77b2e2adcc6017630e69a5",
+    "type": "Jute",
+    "sub_type": "Raw Jute",
+    "name": "esse",
+    "description": "Minim sunt aute ullamco pariatur quis ullamco quis irure qui. Eiusmod ex do dolore exercitation quis adipisicing in proident adipisicing magna est eu sint. Et elit est proident minim irure irure eiusmod mollit. Exercitation consectetur dolor voluptate ad et culpa do deserunt Lorem laborum quis est cupidatat. Velit exercitation eu commodo ea laborum aute nulla labore. Nisi do non aute minim laboris occaecat ut deserunt et ad fugiat id anim deserunt.",
+    "rating": 2.648,
+    "spec_data": {
+      "color": "blue",
+      "brand": "aute",
+      "min_order_quantiy": 53,
+      "cost": 278,
+      "purity": 61
+    },
+    "images": [
+      "rawjute"
+    ],
+    "id": "5c77e7b7adcc6017630e6a8a",
+    "specificationId": "5c7560121ae3f46ec848f7c9"
+  },
+  {
+    "sellerid": "5c77b389adcc6017630e69a9",
+    "type": "Jute",
+    "sub_type": "Raw Jute",
+    "name": "culpa",
+    "description": "In irure consequat nisi sunt mollit duis sunt aliquip sint amet consectetur tempor consequat. Duis deserunt eiusmod ipsum eiusmod amet cupidatat. Ipsum consequat consectetur ut ut non.",
+    "rating": 4.9024,
+    "spec_data": {
+      "color": "green",
+      "brand": "nisi",
+      "min_order_quantiy": 35,
+      "cost": 304,
+      "purity": 18
+    },
+    "images": [
+      "rawjute"
+    ],
+    "id": "5c77e7b7adcc6017630e6a8b",
+    "specificationId": "5c7560121ae3f46ec848f7c9"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Jute",
+    "sub_type": "Raw Jute",
+    "name": "reprehenderit",
+    "description": "Qui adipisicing exercitation voluptate ad sunt. Qui anim cupidatat culpa eu laborum sint consectetur laborum magna elit aliqua laborum incididunt. Pariatur reprehenderit sunt mollit ipsum magna cillum adipisicing. Mollit do velit consequat laboris Lorem duis proident enim dolor duis cillum. Consectetur ea velit reprehenderit eiusmod culpa consectetur mollit mollit. Do aute sunt laborum dolore ex consequat elit nulla sunt cillum commodo adipisicing aliqua. Nulla do minim ullamco proident nulla occaecat exercitation in deserunt laborum enim anim laborum.",
+    "rating": 4.8289,
+    "spec_data": {
+      "color": "yellow",
+      "brand": "consectetur",
+      "min_order_quantiy": 91,
+      "cost": 472,
+      "purity": 21
+    },
+    "images": [
+      "rawjute"
+    ],
+    "id": "5c77e7b7adcc6017630e6a8c",
+    "specificationId": "5c7560121ae3f46ec848f7c9"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Jute",
+    "sub_type": "Raw Jute",
+    "name": "voluptate",
+    "description": "Eu labore duis sunt pariatur officia adipisicing fugiat magna. Ad est duis cupidatat aliqua anim esse exercitation nulla adipisicing ut. Anim cupidatat commodo eu laborum consequat ullamco.",
+    "rating": 4.0989,
+    "spec_data": {
+      "color": "brown",
+      "brand": "ad",
+      "min_order_quantiy": 99,
+      "cost": 256,
+      "purity": 32
+    },
+    "images": [
+      "rawjute"
+    ],
+    "id": "5c77e7b7adcc6017630e6a8d",
+    "specificationId": "5c7560121ae3f46ec848f7c9"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Jute",
+    "sub_type": "Raw Jute",
+    "name": "elit",
+    "description": "Consectetur anim proident cillum incididunt commodo ad do aute qui amet occaecat eiusmod quis duis. Dolor exercitation officia ea ea dolore officia veniam Lorem enim. In irure dolor fugiat non reprehenderit reprehenderit ea. Esse cillum aliqua aliquip irure Lorem nisi. Enim cupidatat ad qui quis ipsum enim voluptate laborum. Labore excepteur quis sit occaecat reprehenderit laboris.",
+    "rating": 3.109,
+    "spec_data": {
+      "color": "red",
+      "brand": "esse",
+      "min_order_quantiy": 27,
+      "cost": 736,
+      "purity": 24
+    },
+    "images": [
+      "rawjute"
+    ],
+    "id": "5c77e7b7adcc6017630e6a8e",
+    "specificationId": "5c7560121ae3f46ec848f7c9"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Jute",
+    "sub_type": "Raw Jute",
+    "name": "non",
+    "description": "Aliqua culpa consequat ex tempor pariatur laboris consectetur. Proident duis nisi excepteur laborum ea nulla aliqua proident quis magna elit dolore. Ea sint adipisicing eu occaecat ipsum labore ut consequat enim. Dolore veniam officia id esse cupidatat ipsum excepteur pariatur laboris elit.",
+    "rating": 3.6665,
+    "spec_data": {
+      "color": "blue",
+      "brand": "eiusmod",
+      "min_order_quantiy": 93,
+      "cost": 635,
+      "purity": 43
+    },
+    "images": [
+      "rawjute"
+    ],
+    "id": "5c77e7b7adcc6017630e6a8f",
+    "specificationId": "5c7560121ae3f46ec848f7c9"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Jute",
+    "sub_type": "Raw Jute",
+    "name": "proident",
+    "description": "Est enim id laboris pariatur. Ea voluptate nulla eu reprehenderit. Anim adipisicing reprehenderit elit excepteur magna sunt ad commodo quis laboris. Commodo pariatur ipsum elit anim laborum aute irure adipisicing. Eu incididunt excepteur adipisicing aliqua aliquip laborum culpa sit minim consequat occaecat. Eiusmod fugiat consectetur exercitation commodo deserunt consectetur aute sint excepteur sint cupidatat. Occaecat elit amet aute ex veniam voluptate fugiat laboris.",
+    "rating": 3.4856,
+    "spec_data": {
+      "color": "yellow",
+      "brand": "officia",
+      "min_order_quantiy": 26,
+      "cost": 605,
+      "purity": 81
+    },
+    "images": [
+      "rawjute"
+    ],
+    "id": "5c77e7b7adcc6017630e6a90",
+    "specificationId": "5c7560121ae3f46ec848f7c9"
+  }
+]

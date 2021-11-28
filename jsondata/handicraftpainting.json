@@ -1,0 +1,401 @@
+[
+  {
+    "sellerid": "5c77b26cadcc6017630e69a4",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "occaecat",
+    "description": "Excepteur laboris magna Lorem dolore proident aliquip eu. Minim labore proident aute aute in elit id. Irure exercitation nostrud nulla in est mollit id aute. Pariatur nisi qui duis adipisicing consequat. Nisi proident nisi velit fugiat irure exercitation id fugiat enim sit.",
+    "rating": 1.0817,
+    "spec_data": {
+      "type": "Oil paint",
+      "minorder": 59,
+      "cost": 716,
+      "length": 28,
+      "width": 23,
+      "height": 64
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e69f7",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  },
+  {
+    "sellerid": "5c77b2e2adcc6017630e69a5",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "nostrud",
+    "description": "Sint commodo nostrud ipsum qui ut consectetur veniam sit eiusmod. Sint voluptate velit eiusmod velit sit consectetur culpa in nostrud cillum eiusmod. Commodo mollit aute irure esse aute dolor exercitation dolor Lorem.",
+    "rating": 3.0266,
+    "spec_data": {
+      "type": "Wooden carved",
+      "minorder": 46,
+      "cost": 493,
+      "length": 32,
+      "width": 90,
+      "height": 79
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e69f8",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "tempor",
+    "description": "In eiusmod ex eu do ea occaecat consectetur qui sit sint officia non ad. Pariatur dolore et eu esse. Sint veniam tempor aliqua veniam aliquip eu laborum culpa nulla. Cupidatat qui consequat culpa commodo minim exercitation officia veniam duis amet.",
+    "rating": 0.1625,
+    "spec_data": {
+      "type": "Oil paint",
+      "minorder": 95,
+      "cost": 762,
+      "length": 16,
+      "width": 71,
+      "height": 54
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e69f9",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "proident",
+    "description": "Do ullamco magna exercitation tempor officia. Lorem quis ipsum officia est magna amet voluptate commodo et enim eu officia. Id proident fugiat tempor aliquip exercitation amet. Aliquip sunt voluptate occaecat nostrud aliquip ut sint enim culpa proident fugiat reprehenderit irure. Ea non esse esse excepteur ullamco quis. Culpa magna consectetur eu enim aliquip ad culpa.",
+    "rating": 4.141,
+    "spec_data": {
+      "type": "Oil paint",
+      "minorder": 26,
+      "cost": 208,
+      "length": 55,
+      "width": 54,
+      "height": 60
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e69fa",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "voluptate",
+    "description": "Eiusmod sit qui cupidatat laboris eu consectetur qui cupidatat ex. Voluptate commodo eiusmod non nostrud tempor commodo ut dolor. Nostrud commodo incididunt culpa consectetur occaecat exercitation proident deserunt. Occaecat voluptate laborum Lorem ad minim anim cupidatat in ipsum nisi. Nisi proident tempor cupidatat sunt anim consectetur aliqua dolore ad deserunt laboris in dolore cupidatat.",
+    "rating": 0.3899,
+    "spec_data": {
+      "type": "Oil paint",
+      "minorder": 64,
+      "cost": 226,
+      "length": 28,
+      "width": 64,
+      "height": 60
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e69fb",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  },
+  {
+    "sellerid": "5c77b389adcc6017630e69a9",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "cillum",
+    "description": "Laborum tempor nisi ad amet enim voluptate dolor mollit. Enim laboris commodo et in adipisicing ullamco minim consequat in aliqua ipsum aliquip. Labore nisi quis anim fugiat nisi labore pariatur proident exercitation occaecat laboris veniam eiusmod mollit.",
+    "rating": 0.2943,
+    "spec_data": {
+      "type": "Oil paint",
+      "minorder": 32,
+      "cost": 800,
+      "length": 84,
+      "width": 12,
+      "height": 77
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e69fc",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "nisi",
+    "description": "Reprehenderit cillum dolor do dolor laborum. Incididunt incididunt fugiat enim amet laboris excepteur culpa sint fugiat exercitation eu qui ullamco. Et tempor incididunt excepteur ipsum adipisicing esse velit. Voluptate deserunt enim quis voluptate excepteur consequat qui.",
+    "rating": 2.7506,
+    "spec_data": {
+      "type": "Wooden carved",
+      "minorder": 40,
+      "cost": 575,
+      "length": 47,
+      "width": 16,
+      "height": 97
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e69fd",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  },
+  {
+    "sellerid": "5c77b26cadcc6017630e69a4",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "commodo",
+    "description": "Incididunt tempor enim qui non pariatur fugiat occaecat non nulla nulla sunt. Dolore reprehenderit mollit eiusmod ex aute cupidatat consequat aliquip velit. Deserunt fugiat ad enim ex.",
+    "rating": 2.5911,
+    "spec_data": {
+      "type": "Wooden carved",
+      "minorder": 58,
+      "cost": 667,
+      "length": 82,
+      "width": 10,
+      "height": 99
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e69fe",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "adipisicing",
+    "description": "Duis sunt adipisicing cupidatat consequat dolor commodo exercitation Lorem voluptate do occaecat elit. Nostrud enim proident nisi dolor magna cillum magna irure proident ullamco enim eiusmod est pariatur. Mollit excepteur aliqua duis nostrud veniam irure et mollit esse aliqua reprehenderit labore. Veniam sint nisi quis velit. Ipsum ad exercitation ea sint ipsum qui esse sit sunt Lorem. Adipisicing deserunt amet dolor reprehenderit ex duis quis nostrud fugiat excepteur qui elit mollit.",
+    "rating": 1.6358,
+    "spec_data": {
+      "type": "Wooden carved",
+      "minorder": 59,
+      "cost": 365,
+      "length": 82,
+      "width": 98,
+      "height": 18
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e69ff",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "amet",
+    "description": "Anim do pariatur mollit dolore ad enim. Eiusmod voluptate sunt eu eu nisi dolore labore qui labore in exercitation laborum dolor. Et in sint aute duis dolor ut. Pariatur sunt duis minim eiusmod dolore. Laboris sint excepteur dolore consectetur occaecat anim elit exercitation. Irure consequat laboris non irure labore ullamco sint tempor laborum ut.",
+    "rating": 3.0071,
+    "spec_data": {
+      "type": "Wooden carved",
+      "minorder": 50,
+      "cost": 301,
+      "length": 34,
+      "width": 26,
+      "height": 54
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e6a00",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "aute",
+    "description": "Consequat sint in minim ipsum occaecat cillum reprehenderit sit. Occaecat aliquip laboris cupidatat ullamco veniam velit officia fugiat voluptate anim et laboris. Cupidatat exercitation labore eiusmod id adipisicing consectetur.",
+    "rating": 0.1724,
+    "spec_data": {
+      "type": "Canvas Painting",
+      "minorder": 89,
+      "cost": 741,
+      "length": 95,
+      "width": 55,
+      "height": 21
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e6a01",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  },
+  {
+    "sellerid": "5c77b26cadcc6017630e69a4",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "non",
+    "description": "Incididunt esse eu veniam esse magna elit do consequat est nisi do aliquip ipsum. Eiusmod consectetur ea nisi occaecat dolore. Eiusmod laborum magna in est minim ad tempor est consectetur magna. Ullamco adipisicing nisi non culpa sunt ad. Aute elit consequat minim tempor cupidatat ea magna officia ipsum ut labore eiusmod enim ex. Consectetur quis irure aute occaecat non excepteur duis exercitation quis minim et aliquip nulla irure. Irure magna dolor esse ullamco commodo voluptate et nisi proident deserunt mollit sint tempor qui.",
+    "rating": 3.6399,
+    "spec_data": {
+      "type": "Canvas Painting",
+      "minorder": 87,
+      "cost": 618,
+      "length": 81,
+      "width": 10,
+      "height": 82
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e6a02",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  },
+  {
+    "sellerid": "5c77b26cadcc6017630e69a4",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "laboris",
+    "description": "Adipisicing reprehenderit magna qui laborum eiusmod irure fugiat ea excepteur id non do minim exercitation. Proident laboris laboris ex nostrud eiusmod laborum id sit nulla fugiat in voluptate ullamco voluptate. Eu proident incididunt eiusmod officia adipisicing eiusmod cillum in. Fugiat qui eiusmod dolor ex duis.",
+    "rating": 0.1893,
+    "spec_data": {
+      "type": "Oil paint",
+      "minorder": 37,
+      "cost": 585,
+      "length": 79,
+      "width": 21,
+      "height": 12
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e6a03",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "enim",
+    "description": "Qui elit mollit enim aute ea qui ea commodo incididunt consequat officia occaecat. Magna qui in ut dolore id. Commodo quis ipsum non do nulla est dolore est.",
+    "rating": 3.5038,
+    "spec_data": {
+      "type": "Canvas Painting",
+      "minorder": 78,
+      "cost": 673,
+      "length": 40,
+      "width": 29,
+      "height": 46
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e6a04",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "aliqua",
+    "description": "Anim aliquip ex duis ullamco elit excepteur et irure minim Lorem voluptate occaecat. Adipisicing magna amet ex dolor sunt labore reprehenderit minim ipsum ipsum consectetur cupidatat. Irure nisi minim enim velit occaecat voluptate velit consequat cillum ullamco consequat adipisicing eu duis. Consectetur reprehenderit id consectetur proident eu in esse. Nostrud in quis pariatur pariatur Lorem quis consequat laboris consectetur sit voluptate. Lorem cupidatat ex cillum cupidatat duis Lorem aliqua velit minim dolor et do.",
+    "rating": 1.5603,
+    "spec_data": {
+      "type": "Wooden carved",
+      "minorder": 19,
+      "cost": 526,
+      "length": 40,
+      "width": 66,
+      "height": 95
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e6a05",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "culpa",
+    "description": "Exercitation sit veniam sit veniam occaecat ex adipisicing officia cillum irure. Officia dolore nostrud officia ea consectetur culpa non. Laboris ullamco aute cillum veniam est deserunt. Aute quis est aliqua excepteur aliquip eiusmod adipisicing ipsum consequat voluptate commodo Lorem. Enim ea labore consectetur mollit ex deserunt magna officia cupidatat magna fugiat magna est.",
+    "rating": 1.3694,
+    "spec_data": {
+      "type": "Wooden carved",
+      "minorder": 48,
+      "cost": 264,
+      "length": 12,
+      "width": 82,
+      "height": 81
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e6a06",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  },
+  {
+    "sellerid": "5c77b389adcc6017630e69a9",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "irure",
+    "description": "Ex do qui nulla ad mollit. Dolore nulla magna Lorem esse. Laboris aliquip velit ea aliquip enim anim esse aute dolore cupidatat proident sunt elit occaecat. Officia exercitation reprehenderit ex cillum duis quis. Qui tempor exercitation commodo commodo esse duis voluptate deserunt laboris cillum irure nisi elit nulla. Ea aliquip excepteur dolor sunt.",
+    "rating": 1.2704,
+    "spec_data": {
+      "type": "Oil paint",
+      "minorder": 85,
+      "cost": 560,
+      "length": 33,
+      "width": 23,
+      "height": 38
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e6a07",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "incididunt",
+    "description": "Incididunt consequat laborum fugiat do ea. Proident ullamco ut Lorem eiusmod tempor consequat dolore. Occaecat tempor eu est fugiat quis consectetur enim Lorem. Dolor eu fugiat nisi tempor ipsum.",
+    "rating": 2.2526,
+    "spec_data": {
+      "type": "Oil paint",
+      "minorder": 52,
+      "cost": 798,
+      "length": 87,
+      "width": 14,
+      "height": 34
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e6a08",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Handicraft",
+    "sub_type": "Paintings",
+    "name": "cillum",
+    "description": "Reprehenderit laboris esse sit amet qui aliqua ea in dolore occaecat dolor occaecat non. Aliquip duis duis in occaecat ex sint dolore duis magna eiusmod aliquip dolore cillum. Nisi laborum laboris labore officia cillum voluptate. Commodo mollit incididunt culpa reprehenderit adipisicing fugiat.",
+    "rating": 1.2979,
+    "spec_data": {
+      "type": "Wooden carved",
+      "minorder": 61,
+      "cost": 226,
+      "length": 89,
+      "width": 83,
+      "height": 59
+    },
+    "images": [
+      "painting"
+    ],
+    "id": "5c77e45dadcc6017630e6a09",
+    "specificationId": "5c755e691ae3f46ec848f7c8"
+  }
+]

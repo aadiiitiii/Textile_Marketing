@@ -1,0 +1,70 @@
+{
+  "count": 6,
+  "id": "5c755e691ae3f46ec848f7c8",
+  "_spectemplate": [
+    {
+      "name": "Type",
+      "helpertext": "Oil paint, Canvas Painting,Wooden carved ,etc.",
+      "id": "1",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Length",
+      "helpertext": "Write customizable or specify the length",
+      "id": "2",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["cm"]
+      }
+    },
+    {
+      "name": "Height",
+      "helpertext": "Write customizable or specify the height",
+      "id": "4",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["cm"]
+      }
+    },
+    {
+      "name": "Minorder",
+      "helpertext": "",
+      "id": "5",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["paintings"]
+      }
+    },
+    {
+      "name": "Cost",
+      "helpertext": "",
+      "id": "6",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["Rs_per_painting"]
+      }
+    }
+  ]
+}

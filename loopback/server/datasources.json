@@ -1,0 +1,40 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "textile_db": {
+    "host": "127.0.0.1",
+    "port": 27017,
+    "url": "",
+    "database": "textile",
+    "password": "",
+    "name": "textile_db",
+    "user": "",
+    "connector": "mongodb"
+  },
+  "Mail": {
+    "name": "Mail",
+    "connector": "mail",
+    "transports": [
+      {
+        "type": "smtp",
+        "host": "smtp.gmail.com",
+        "secure": true,
+        "port": 465,
+        "tls": {
+          "rejectUnauthorized": false
+        },
+        "auth": {
+          "type": "OAuth2",
+          "user": "no.reply.textile@gmail.com",
+          "clientId": "106510772356-flufnhtv61253hobaos1peovpq6n3u5l.apps.googleusercontent.com",
+          "clientSecret": "DNzNZLuUZaz3BcFAMElIcCT0",
+          "refreshToken": "1/tAr-SRkZU1jGlrizqXI7M_AVOPed7_W0PNDf1JWzw9Q",
+          "accessToken": "ya29.Glu4BuE65X_1JOrqVtKgAmisRkvkIpXhw3MPBGtUsDUc3zDiqVRN69Kwkyjfjfz7HFry00q-nlVGNU51IQST2-W6mnjam7sqC7gvUol14X3rlJ8H57jxqIXLDhtL",
+          "expires": 1550836069043
+        }
+      }
+    ]
+  }
+}

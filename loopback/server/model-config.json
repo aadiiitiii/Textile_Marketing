@@ -1,0 +1,89 @@
+{
+  "_meta": {
+    "sources": [
+      "loopback/common/models",
+      "loopback/server/models",
+      "../common/models",
+      "./models"
+    ],
+    "mixins": [
+      "loopback/common/mixins",
+      "loopback/server/mixins",
+      "../common/mixins",
+      "./mixins"
+    ]
+  },
+  "User": {
+    "dataSource": "textile_db",
+    "public": false
+  },
+  "AccessToken": {
+    "dataSource": "textile_db",
+    "public": false
+  },
+  "ACL": {
+    "dataSource": "textile_db",
+    "public": false
+  },
+  "RoleMapping": {
+    "dataSource": "textile_db",
+    "public": false,
+    "options": {
+      "strictObjectIDCoercion": true
+    }
+  },
+  "Role": {
+    "dataSource": "textile_db",
+    "public": false
+  },
+  "Email": {
+    "dataSource": "Mail"
+  },
+  "user": {
+    "dataSource": "textile_db",
+    "public": true,
+    "options": {
+      "realmRequired": true
+    }
+  },
+  "category": {
+    "dataSource": "textile_db",
+    "public": true
+  },
+  "specification": {
+    "dataSource": "textile_db",
+    "public": true
+  },
+  "spec": {
+    "dataSource": "textile_db",
+    "public": false
+  },
+  "flag": {
+    "dataSource": "textile_db",
+    "public": false
+  },
+  "specinfo": {
+    "dataSource": "textile_db",
+    "public": false
+  },
+  "products": {
+    "dataSource": "textile_db",
+    "public": true
+  },
+  "comments": {
+    "dataSource": "textile_db",
+    "public": true
+  },
+  "image": {
+    "dataSource": "textile_db",
+    "public": true
+  },
+  "profile": {
+    "dataSource": "textile_db",
+    "public": true
+  },
+  "bid": {
+    "dataSource": "textile_db",
+    "public": true
+  }
+}

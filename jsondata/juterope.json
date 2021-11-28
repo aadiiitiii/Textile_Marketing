@@ -1,0 +1,398 @@
+[
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Jute",
+    "sub_type": "Jute Rope",
+    "name": "ut",
+    "description": "Adipisicing ex enim ex laborum eu minim dolore nostrud cillum non. Sunt ut dolor sit id elit est deserunt tempor quis. Aliqua aliqua aliqua nostrud in. Qui occaecat sint cillum adipisicing nostrud cillum in ea et nostrud anim nostrud in.",
+    "rating": 4.3621,
+    "spec_data": {
+      "twist_type": "No Twist",
+      "color": "blue",
+      "brand": "nostrud",
+      "diameter": 143,
+      "Quantity_per_bundle": 14,
+      "cost": 719,
+      "Minorder": 23
+    },
+    "images": [
+      "juterope"
+    ],
+    "id": "5c77e6cdadcc6017630e6a59",
+    "specificationId": "5c7561611ae3f46ec848f7cb"
+  },
+  {
+    "sellerid": "5c77b2e2adcc6017630e69a5",
+    "type": "Jute",
+    "sub_type": "Jute Rope",
+    "name": "occaecat",
+    "description": "Occaecat do consequat nisi elit tempor sit deserunt minim culpa occaecat consectetur pariatur. Magna id ex deserunt veniam ullamco enim quis cillum non minim occaecat. Dolore est quis est voluptate anim aliqua non. Tempor nostrud est aute ea exercitation ea excepteur Lorem.",
+    "rating": 3.5068,
+    "spec_data": {
+      "twist_type": "Others",
+      "color": "blue",
+      "brand": "tempor",
+      "diameter": 70,
+      "Quantity_per_bundle": 69,
+      "cost": 739,
+      "Minorder": 84
+    },
+    "images": [
+      "juterope"
+    ],
+    "id": "5c77e6cdadcc6017630e6a5a",
+    "specificationId": "5c7561611ae3f46ec848f7cb"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Jute",
+    "sub_type": "Jute Rope",
+    "name": "ex",
+    "description": "Sunt enim qui quis nisi commodo. Laborum ex amet quis tempor elit minim. Culpa excepteur magna eu labore cupidatat laborum. Velit id reprehenderit non commodo consectetur eu sunt in amet ut sunt est. Labore sunt cillum do non.",
+    "rating": 1.3597,
+    "spec_data": {
+      "twist_type": "Single Twist",
+      "color": "green",
+      "brand": "velit",
+      "diameter": 196,
+      "Quantity_per_bundle": 75,
+      "cost": 669,
+      "Minorder": 87
+    },
+    "images": [
+      "juterope"
+    ],
+    "id": "5c77e6cdadcc6017630e6a5b",
+    "specificationId": "5c7561611ae3f46ec848f7cb"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Jute",
+    "sub_type": "Jute Rope",
+    "name": "minim",
+    "description": "In irure culpa nulla nostrud incididunt culpa amet. Fugiat in aliqua adipisicing officia veniam exercitation in. Et sunt consectetur non cillum ex laborum ullamco. Do quis laborum nulla nulla elit laborum id labore. Proident duis id dolor aliqua ad do eu cillum veniam mollit id consectetur. Sint cillum ad minim aliquip do cupidatat eiusmod ut cillum minim nulla.",
+    "rating": 3.8056,
+    "spec_data": {
+      "twist_type": "Four Twist",
+      "color": "green",
+      "brand": "velit",
+      "diameter": 17,
+      "Quantity_per_bundle": 15,
+      "cost": 563,
+      "Minorder": 85
+    },
+    "images": [
+      "juterope"
+    ],
+    "id": "5c77e6cdadcc6017630e6a5c",
+    "specificationId": "5c7561611ae3f46ec848f7cb"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Jute",
+    "sub_type": "Jute Rope",
+    "name": "culpa",
+    "description": "Minim in aliquip pariatur ut labore aliqua reprehenderit. Non proident ullamco minim consequat. Occaecat nisi eu aute excepteur sint reprehenderit aliquip consectetur voluptate consequat ut id. Cupidatat cupidatat labore amet sunt ullamco nostrud minim. Ullamco eu dolor dolore commodo nisi aute exercitation occaecat ut anim.",
+    "rating": 3.7108,
+    "spec_data": {
+      "twist_type": "No Twist",
+      "color": "blue",
+      "brand": "incididunt",
+      "diameter": 123,
+      "Quantity_per_bundle": 36,
+      "cost": 783,
+      "Minorder": 96
+    },
+    "images": [
+      "juterope"
+    ],
+    "id": "5c77e6cdadcc6017630e6a5d",
+    "specificationId": "5c7561611ae3f46ec848f7cb"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Jute",
+    "sub_type": "Jute Rope",
+    "name": "ad",
+    "description": "Velit ipsum non nostrud eu ex dolore excepteur laboris. Duis minim tempor cupidatat adipisicing pariatur tempor nisi Lorem mollit laboris cillum ad ut velit. Eiusmod non id consequat cupidatat aliqua nulla velit aute aute cupidatat fugiat amet. Minim labore consectetur consequat do voluptate ad nulla elit officia. Irure ut qui incididunt culpa.",
+    "rating": 4.3197,
+    "spec_data": {
+      "twist_type": "Triple Twist",
+      "color": "blue",
+      "brand": "cupidatat",
+      "diameter": 53,
+      "Quantity_per_bundle": 97,
+      "cost": 228,
+      "Minorder": 87
+    },
+    "images": [
+      "juterope"
+    ],
+    "id": "5c77e6cdadcc6017630e6a5e",
+    "specificationId": "5c7561611ae3f46ec848f7cb"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Jute",
+    "sub_type": "Jute Rope",
+    "name": "minim",
+    "description": "Proident velit occaecat aute velit nisi quis ex laborum velit anim officia proident qui culpa. Pariatur ullamco duis do duis. Culpa enim laboris ut culpa deserunt aliqua labore velit elit labore commodo ex. Laborum qui laborum do dolor aliqua voluptate mollit in non in Lorem amet.",
+    "rating": 1.884,
+    "spec_data": {
+      "twist_type": "Single Twist",
+      "color": "green",
+      "brand": "laborum",
+      "diameter": 36,
+      "Quantity_per_bundle": 25,
+      "cost": 319,
+      "Minorder": 94
+    },
+    "images": [
+      "juterope"
+    ],
+    "id": "5c77e6cdadcc6017630e6a5f",
+    "specificationId": "5c7561611ae3f46ec848f7cb"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Jute",
+    "sub_type": "Jute Rope",
+    "name": "non",
+    "description": "Sint est id enim aliqua amet occaecat. Cupidatat anim do ad enim. Esse incididunt culpa ex elit ullamco. Culpa mollit eiusmod non et enim.",
+    "rating": 1.2516,
+    "spec_data": {
+      "twist_type": "No Twist",
+      "color": "red",
+      "brand": "est",
+      "diameter": 197,
+      "Quantity_per_bundle": 68,
+      "cost": 612,
+      "Minorder": 25
+    },
+    "images": [
+      "juterope"
+    ],
+    "id": "5c77e6cdadcc6017630e6a60",
+    "specificationId": "5c7561611ae3f46ec848f7cb"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Jute",
+    "sub_type": "Jute Rope",
+    "name": "aute",
+    "description": "Culpa consequat laboris duis ullamco ipsum ipsum. Ad velit id amet irure nisi occaecat consequat. Lorem ad eu laboris quis ipsum pariatur nostrud magna occaecat ipsum.",
+    "rating": 3.4687,
+    "spec_data": {
+      "twist_type": "Double Twist",
+      "color": "yellow",
+      "brand": "eiusmod",
+      "diameter": 147,
+      "Quantity_per_bundle": 15,
+      "cost": 513,
+      "Minorder": 81
+    },
+    "images": [
+      "juterope"
+    ],
+    "id": "5c77e6cdadcc6017630e6a61",
+    "specificationId": "5c7561611ae3f46ec848f7cb"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Jute",
+    "sub_type": "Jute Rope",
+    "name": "elit",
+    "description": "Id amet ea in voluptate consectetur nulla officia aliquip. Ad anim excepteur officia aute veniam enim aliquip ut aute culpa est velit commodo. Mollit aute culpa ea sunt sint ullamco excepteur pariatur commodo aliquip do nisi. Ipsum consequat irure occaecat et sint. Elit ea consequat eu ullamco elit ad irure tempor.",
+    "rating": 1.6755,
+    "spec_data": {
+      "twist_type": "Others",
+      "color": "blue",
+      "brand": "ullamco",
+      "diameter": 141,
+      "Quantity_per_bundle": 58,
+      "cost": 718,
+      "Minorder": 18
+    },
+    "images": [
+      "juterope"
+    ],
+    "id": "5c77e6cdadcc6017630e6a62",
+    "specificationId": "5c7561611ae3f46ec848f7cb"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Jute",
+    "sub_type": "Jute Rope",
+    "name": "irure",
+    "description": "Anim velit ea elit sint pariatur adipisicing consectetur adipisicing aliquip labore. Minim minim voluptate velit labore. Adipisicing sit elit quis irure excepteur esse. Commodo elit minim adipisicing labore veniam nostrud eu ut aute velit esse eu. Esse sint ea adipisicing magna laboris occaecat ex reprehenderit id. Excepteur ut excepteur incididunt cupidatat.",
+    "rating": 1.7999,
+    "spec_data": {
+      "twist_type": "Double Twist",
+      "color": "yellow",
+      "brand": "ut",
+      "diameter": 124,
+      "Quantity_per_bundle": 56,
+      "cost": 789,
+      "Minorder": 51
+    },
+    "images": [
+      "juterope"
+    ],
+    "id": "5c77e6cdadcc6017630e6a63",
+    "specificationId": "5c7561611ae3f46ec848f7cb"
+  },
+  {
+    "sellerid": "5c77b26cadcc6017630e69a4",
+    "type": "Jute",
+    "sub_type": "Jute Rope",
+    "name": "reprehenderit",
+    "description": "Aliqua magna fugiat enim nulla dolor duis dolore aliqua irure. Voluptate ullamco ut exercitation veniam quis sit. Magna id dolor nostrud sint ipsum reprehenderit laborum sit irure. Occaecat mollit eu est ut velit anim aliquip fugiat quis aute cupidatat ea. Voluptate culpa veniam tempor et aliquip labore exercitation sunt anim labore officia.",
+    "rating": 2.9045,
+    "spec_data": {
+      "twist_type": "Triple Twist",
+      "color": "brown",
+      "brand": "sit",
+      "diameter": 75,
+      "Quantity_per_bundle": 97,
+      "cost": 602,
+      "Minorder": 24
+    },
+    "images": [
+      "juterope"
+    ],
+    "id": "5c77e6cdadcc6017630e6a64",
+    "specificationId": "5c7561611ae3f46ec848f7cb"
+  },
+  {
+    "sellerid": "5c77b2e2adcc6017630e69a5",
+    "type": "Jute",
+    "sub_type": "Jute Rope",
+    "name": "culpa",
+    "description": "Incididunt reprehenderit ullamco aliqua anim. Et laboris fugiat dolor aliquip laborum nisi. Laborum sunt exercitation minim qui. Officia sit occaecat aliqua reprehenderit reprehenderit duis cillum eu fugiat non.",
+    "rating": 1.2595,
+    "spec_data": {
+      "twist_type": "Double Twist",
+      "color": "red",
+      "brand": "elit",
+      "diameter": 147,
+      "Quantity_per_bundle": 63,
+      "cost": 251,
+      "Minorder": 52
+    },
+    "images": [
+      "juterope"
+    ],
+    "id": "5c77e6cdadcc6017630e6a65",
+    "specificationId": "5c7561611ae3f46ec848f7cb"
+  },
+  {
+    "sellerid": "5c77b2e2adcc6017630e69a5",
+    "type": "Jute",
+    "sub_type": "Jute Rope",
+    "name": "irure",
+    "description": "Occaecat irure nostrud irure velit ea. Occaecat sit eu exercitation consequat aliquip deserunt aliqua laborum aliquip sit veniam cupidatat eiusmod. Minim aliquip do Lorem proident mollit. Elit et dolore proident duis anim fugiat sit. Ea irure nostrud anim tempor commodo irure laboris esse aliqua anim.",
+    "rating": 2.6261,
+    "spec_data": {
+      "twist_type": "Double Twist",
+      "color": "red",
+      "brand": "enim",
+      "diameter": 101,
+      "Quantity_per_bundle": 39,
+      "cost": 300,
+      "Minorder": 63
+    },
+    "images": [
+      "juterope"
+    ],
+    "id": "5c77e6cdadcc6017630e6a66",
+    "specificationId": "5c7561611ae3f46ec848f7cb"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Jute",
+    "sub_type": "Jute Rope",
+    "name": "reprehenderit",
+    "description": "Velit ut officia aute ad. Quis nisi ullamco do qui mollit. Officia anim irure minim duis ex adipisicing. Ea et quis veniam quis non ullamco sint quis do eu culpa nostrud. Mollit cupidatat labore et cupidatat dolore dolor sint pariatur. Duis deserunt velit ad dolor sint excepteur fugiat ad id voluptate fugiat duis nisi.",
+    "rating": 4.7737,
+    "spec_data": {
+      "twist_type": "Double Twist",
+      "color": "yellow",
+      "brand": "amet",
+      "diameter": 180,
+      "Quantity_per_bundle": 51,
+      "cost": 323,
+      "Minorder": 93
+    },
+    "images": [
+      "juterope"
+    ],
+    "id": "5c77e6cdadcc6017630e6a67",
+    "specificationId": "5c7561611ae3f46ec848f7cb"
+  },
+  {
+    "sellerid": "5c77b2e2adcc6017630e69a5",
+    "type": "Jute",
+    "sub_type": "Jute Rope",
+    "name": "mollit",
+    "description": "Qui consectetur commodo pariatur laborum consequat sint est tempor. Laborum velit consectetur eiusmod ad exercitation id. Cillum velit nostrud sint amet anim exercitation ut anim proident ex laborum. Excepteur mollit et laboris laboris sunt consequat eu Lorem culpa ex et ipsum. Dolor culpa sint laborum eiusmod mollit ad magna duis ipsum enim consectetur fugiat ipsum officia.",
+    "rating": 4.3153,
+    "spec_data": {
+      "twist_type": "Others",
+      "color": "green",
+      "brand": "ea",
+      "diameter": 50,
+      "Quantity_per_bundle": 61,
+      "cost": 529,
+      "Minorder": 66
+    },
+    "images": [
+      "juterope"
+    ],
+    "id": "5c77e6cdadcc6017630e6a68",
+    "specificationId": "5c7561611ae3f46ec848f7cb"
+  },
+  {
+    "sellerid": "5c77b2e2adcc6017630e69a5",
+    "type": "Jute",
+    "sub_type": "Jute Rope",
+    "name": "exercitation",
+    "description": "Ex proident magna dolore proident ex. Nostrud tempor sunt non reprehenderit eu. Velit culpa duis commodo tempor.",
+    "rating": 0.3204,
+    "spec_data": {
+      "twist_type": "Triple Twist",
+      "color": "yellow",
+      "brand": "eiusmod",
+      "diameter": 117,
+      "Quantity_per_bundle": 39,
+      "cost": 234,
+      "Minorder": 87
+    },
+    "images": [
+      "juterope"
+    ],
+    "id": "5c77e6cdadcc6017630e6a69",
+    "specificationId": "5c7561611ae3f46ec848f7cb"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Jute",
+    "sub_type": "Jute Rope",
+    "name": "nostrud",
+    "description": "Aliqua duis eiusmod id occaecat deserunt. Minim sunt excepteur minim et et amet ut occaecat do. Irure voluptate reprehenderit incididunt occaecat Lorem aliquip veniam occaecat. Qui et non ea magna labore aute.",
+    "rating": 0.2688,
+    "spec_data": {
+      "twist_type": "Others",
+      "color": "red",
+      "brand": "Lorem",
+      "diameter": 155,
+      "Quantity_per_bundle": 66,
+      "cost": 676,
+      "Minorder": 88
+    },
+    "images": [
+      "juterope"
+    ],
+    "id": "5c77e6cdadcc6017630e6a6a",
+    "specificationId": "5c7561611ae3f46ec848f7cb"
+  }
+]

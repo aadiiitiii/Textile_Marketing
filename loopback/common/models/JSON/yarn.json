@@ -1,0 +1,81 @@
+{
+  "count": 6,
+  "id": "5c7561931ae3f46ec848f7cc",
+  "_spectemplate": [
+    {
+      "name": "Color",
+      "helpertext": "",
+      "id": "1",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Number_of_ply",
+      "helpertext": "Number of Strands in one thread",
+      "id": "2",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Length_per_ball",
+      "helpertext": "",
+      "id": "3",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["meters"]
+      }
+    },
+    {
+      "name": "Number_of_balls_per_pack",
+      "helpertext": "",
+      "id": "4",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Minorder",
+      "helpertext": "",
+      "id": "5",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["Number of Packs"]
+      }
+    },
+    {
+      "name": "Cost",
+      "helpertext": "",
+      "id": "6",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["Rs per pack"]
+      }
+    }
+  ]
+}

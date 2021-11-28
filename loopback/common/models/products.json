@@ -1,0 +1,62 @@
+{
+  "name": "products",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "type": {
+      "type": "string",
+      "required": true
+    },
+    "copyright": {
+      "type": "string",
+      "default": ""
+    },
+    "sub_type": {
+      "type": "string",
+      "default": ""
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string"
+    },
+    "rating": {
+      "type": "number",
+      "required": true,
+      "default": 0
+    },
+    "comments_id": {
+      "type": [
+        "string"
+      ]
+    },
+    "spec_data": {
+      "type": "object",
+      "required": true
+    },
+    "images": {
+      "type": [
+        "string"
+      ]
+    }
+  },
+  "validations": [],
+  "relations": {
+    "bids": {
+      "type": "hasOne",
+      "model": "bid",
+      "foreignKey": "",
+      "options": {
+        "nestRemoting": true,
+        "disableInclude": true
+      }
+    }
+  },
+  "acls": [],
+  "methods": {}
+}

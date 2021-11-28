@@ -1,0 +1,65 @@
+{
+  "type": "Cotton",
+  "sub_type": "Cotton Fabric",
+  "specificationId": "5c7562f11ae3f46ec848f7d0"
+}
+{
+  "type": "Cotton",
+  "sub_type": "Raw Cotton",
+  "specificationId": "5c7560de1ae3f46ec848f7ca"
+}
+{
+  "type": "Denim",
+  "sub_type": "",
+  "specificationId": "5c7564491ae3f46ec848f7d1"
+}
+{
+  "type": "Jute",
+  "sub_type": "Jute Bag",
+  "specificationId": "5c7564751ae3f46ec848f7d2"
+}
+{
+  "type": "Jute",
+  "sub_type": "Jute Fabric",
+  "specificationId": "5c7566db1ae3f46ec848f7d3"
+}
+{
+  "type": "Jute",
+  "sub_type": "Jute Rope",
+  "specificationId": "5c7561611ae3f46ec848f7cb"
+}
+{
+  "type": "Jute",
+  "sub_type": "Raw Jute",
+  "specificationId": "5c7560121ae3f46ec848f7c9"
+}
+{
+  "type": "Nylon",
+  "sub_type": "",
+  "specificationId": "5c755cde1ae3f46ec848f7c5"
+}
+{
+  "type": "Handicraft",
+  "sub_type": "Paintings",
+  "specificationId": "5c755e691ae3f46ec848f7c8"
+}
+{
+  "type": "Handicraft",
+  "sub_type": "Show Piece",
+  "specificationId": "5c7562491ae3f46ec848f7ce"
+}
+{
+  "type": "Silk",
+  "sub_type": "",
+  "specificationId": "5c7561ee1ae3f46ec848f7cd"
+}
+{
+  "type": "Wool",
+  "sub_type": "Yarn",
+  "specificationId": "5c7561931ae3f46ec848f7cc"
+}
+{
+  "type": "Wool",
+  "sub_type": "Raw Wool",
+  "specificationId": "5c7562711ae3f46ec848f7cf"
+}

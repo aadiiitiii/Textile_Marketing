@@ -1,0 +1,98 @@
+{
+  "count": 7,
+  "id": "5c7562491ae3f46ec848f7ce",
+  "_spectemplate": [
+    {
+      "name": "Material_used",
+      "helpertext": "",
+      "id": "1",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": true
+      },
+      "_specsinfo": {
+        "fields": [
+          "Wooden","Marble","Bamboo","Brass","Metal","Bone","Aluminium","Copper","White metal","Sea shell","Beaded","Bronze","Rosewood","Sandalwood","Glass"
+        ]
+      }
+    },
+    {
+      "name": "Color",
+      "helpertext": "Write customizable or specify the color",
+      "id": "2",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Length",
+      "helpertext": "Write customizable or specify the length",
+      "id": "3",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["cm"]
+      }
+    },
+    {
+      "name": "Width",
+      "helpertext": "Write customizable or specify the width",
+      "id": "4",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["cm"]
+      }
+    },
+    {
+      "name": "Height",
+      "helpertext": "Write customizable or specify the height",
+      "id": "5",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["cm"]
+      }
+    },
+    {
+      "name": "Minorder",
+      "helpertext": "",
+      "id": "6",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["unit"]
+      }
+    },
+    {
+      "name": "Cost",
+      "helpertext": "",
+      "id": "7",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["Rs per unit"]
+      }
+    }
+  ]
+}

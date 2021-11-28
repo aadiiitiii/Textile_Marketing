@@ -1,0 +1,112 @@
+{
+  "count": 8,
+  "id": "5c7560de1ae3f46ec848f7ca",
+  "_spectemplate": [
+    {
+      "name": "Type",
+      "helpertext": "",
+      "id": "1",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": true
+      },
+      "_specsinfo": {
+        "fields": [
+          "absorbent/surgical cotton","Raw cotton","Bleached cotton"
+        ]
+      }
+    },
+    {
+      "name": "Usage",
+      "helpertext": "",
+      "id": "2",
+      "_flags": {
+        "optional": true,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Min_Quantity",
+      "helpertext": "",
+      "id": "3",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "fields":[
+          "Number of Packs"
+        ]
+      }
+    },
+    {
+      "name": "Packagingdetails",
+      "helpertext": "",
+      "id": "4",
+      "_flags": {
+        "optional": true,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Sterility",
+      "helpertext": "",
+      "id": "5",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Color",
+      "helpertext": "",
+      "id": "6",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Quantity_per_pack",
+      "helpertext": "",
+      "id": "7",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit":[
+          "kg","Quintal"
+        ]
+      }
+    },
+    {
+      "name": "Cost",
+      "helpertext": "",
+      "id": "8",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["Rs per pack"]
+      }
+    }
+  ]
+}

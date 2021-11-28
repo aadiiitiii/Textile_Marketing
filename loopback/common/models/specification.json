@@ -1,0 +1,47 @@
+{
+  "name": "specification",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "count": {
+      "type": "number",
+      "required": true,
+      "default": 0
+    }
+  },
+  "validations": [],
+  "relations": {
+    "spectemplate": {
+      "type": "embedsMany",
+      "model": "spec",
+      "property": "spectemplate",
+      "options": {
+        "validate": true,
+        "forceId": false
+      }
+    },
+    "categories": {
+      "type": "hasMany",
+      "model": "category",
+      "foreignKey": "",
+      "options": {
+        "nestRemoting": true,
+        "disableInclude": true
+      }
+    },
+    "products": {
+      "type": "hasMany",
+      "model": "products",
+      "foreignKey": "",
+      "options": {
+        "nestRemoting": true,
+        "disableInclude": true
+      }
+    }
+  },
+  "acls": [],
+  "methods": {}
+}

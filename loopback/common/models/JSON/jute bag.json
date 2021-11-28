@@ -1,0 +1,109 @@
+{
+  "count": 8,
+  "id": "5c7564751ae3f46ec848f7d2",
+  "_spectemplate": [
+    {
+      "name": "Color",
+      "helpertext": "",
+      "id": "1",
+      "_flags": {
+        "optional": false,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {
+      }
+    },
+    {
+      "name": "Brand",
+      "helpertext": "",
+      "id": "2",
+      "_flags": {
+        "optional": true,
+        "unit": false,
+        "fields": false
+      },
+      "_specsinfo": {}
+    },
+    {
+      "name": "Length",
+      "helpertext": "Write customizable or specify the length",
+      "id": "3",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["cm"]
+      }
+    },
+    {
+      "name": "Width",
+      "helpertext": "Write customizable or specify the width",
+      "id": "4",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["cm"]
+      }
+    },
+    {
+      "name": "Height",
+      "helpertext": "Write customizable or specify the height",
+      "id": "5",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["cm"]
+      }
+    },
+    {
+      "name": "Handle_size",
+      "helpertext": "Write customizable or specify",
+      "id": "6",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit":["cm"]
+      }
+    },
+    {
+      "name": "Minorder",
+      "helpertext": "",
+      "id": "7",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": ["Number of Bags"]
+      }
+    },
+    {
+      "name": "Cost",
+      "helpertext": "",
+      "id": "8",
+      "_flags": {
+        "optional": false,
+        "unit": true,
+        "fields": false
+      },
+      "_specsinfo": {
+        "unit": [
+          "Rs per bag"
+        ]
+      }
+    }
+  ]
+}

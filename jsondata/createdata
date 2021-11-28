@@ -1,0 +1,62 @@
+/////////////////////////////Cotton : cotton fabric
+[
+  {
+    'repeat(5, 10)': {
+
+    "sellerid": '{{random("5c77b26cadcc6017630e69a4","5c77b2e2adcc6017630e69a5","5c77b318adcc6017630e69a6","5c77b333adcc6017630e69a7","5c77b365adcc6017630e69a8","5c77b389adcc6017630e69a9")}}' ,
+    "type": "Cotton",
+    "sub_type": "Cotton Fabric",
+    "name": '{{lorem(1, "words")}}',
+    "description": '{{lorem(1, "paragraphs")}}',
+    "rating":'{{floating(0, 5)}}',
+    "spec_data": { 
+      "type":'{{random("Printed","Floral","cotton shirting","Polyster Cotton","Cotton linen", "Cotton kurti",          "Cotton lycra",          "Cotton canvas",          "Cotton poplin",          "Cotton corduroy",          "Organic cotton",          "Others")}}',
+      "pattern":'{{lorem(1, "words")}}',
+      "color":'{{random("blue", "brown", "green","red","yellow")}}',
+      "gsm":'{{integer(100, 1000)}}',
+      "width":'{{integer(100, 1000)}}',
+      "shrinkage":'{{bool()}}',
+      "minorder" :'{{integer(10, 100)}}',
+      "strechable":'{{bool()}}',
+      "washcare":'{{random("Machine",          "Dry clean",          "Hand Wash")}}'
+      
+    },
+    "images": [
+      "cotton"
+    ],
+    "id": '{{objectId()}}',
+    "specificationId": "5c7562f11ae3f46ec848f7d0"
+  }
+  }
+]
+
+[
+  {
+    'repeat(5, 10)': {
+
+    sellerid: '{{random("5c77b26cadcc6017630e69a4","5c77b2e2adcc6017630e69a5","5c77b318adcc6017630e69a6","5c77b333adcc6017630e69a7","5c77b365adcc6017630e69a8","5c77b389adcc6017630e69a9")}}' ,
+    type: "Cotton",
+    sub_type: "Cotton Fabric",
+    name: '{{lorem(1, "words")}}',
+    description: '{{lorem(1, "paragraphs")}}',
+    rating:'{{floating(0, 5)}}',
+    spec_data: { 
+      type:'{{random("Printed","Floral","cotton shirting","Polyster Cotton","Cotton linen", "Cotton kurti",          "Cotton lycra",          "Cotton canvas",          "Cotton poplin",          "Cotton corduroy",          "Organic cotton",          "Others")}}',
+      pattern:'{{lorem(1, "words")}}',
+      color:'{{random("blue", "brown", "green","red","yellow")}}',
+      gsm:'{{integer(100, 1000)}}',
+      width:'{{integer(100, 1000)}}',
+      shrinkage:'{{bool()}}',
+      minorder :'{{integer(10, 100)}}',
+      strechable:'{{bool()}}',
+      washcare:'{{random("Machine",          "Dry clean",          "Hand Wash")}}'
+      
+    },
+    images: [
+      "cotton"
+    ],
+    id: '{{objectId()}}',
+    specificationId: "5c7562f11ae3f46ec848f7d0"
+  }
+  }
+]

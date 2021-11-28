@@ -1,0 +1,402 @@
+[
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Cotton Fabric",
+    "name": "proident",
+    "description": "Sit commodo amet labore irure deserunt occaecat nostrud sunt. Cillum commodo dolore ea Lorem elit aute amet fugiat. Consectetur adipisicing non mollit culpa labore reprehenderit do do sint laboris irure exercitation culpa. Est reprehenderit incididunt commodo id culpa. Duis tempor aute Lorem occaecat ullamco duis aute anim pariatur consectetur fugiat sint.",
+    "rating": 1.4092,
+    "spec_data": {
+      "type": "Cotton linen",
+      "pattern": "sint",
+      "color": "red",
+      "gsm": 300,
+      "width": 869,
+      "shrinkage": true,
+      "minorder": 81,
+      "strechable": true,
+      "washcare": "Hand Wash",
+      "cost": 697
+    },
+    "images": [
+      "cotton"
+    ],
+    
+    "specificationId": "5c7562f11ae3f46ec848f7d0"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Cotton Fabric",
+    "name": "tempor",
+    "description": "Cillum aliqua pariatur veniam enim. Dolore minim ea proident laborum ut amet officia veniam minim consequat do ipsum do ullamco. Fugiat aliquip non commodo exercitation mollit et. Id ex consequat deserunt occaecat mollit labore aliqua duis laborum elit occaecat proident. Aute dolor sit elit non consectetur incididunt commodo reprehenderit culpa eiusmod est ullamco. Pariatur veniam sit tempor ut do officia anim.",
+    "rating": 1.3992,
+    "spec_data": {
+      "type": "Cotton lycra",
+      "pattern": "aliqua",
+      "color": "brown",
+      "gsm": 696,
+      "width": 767,
+      "shrinkage": true,
+      "minorder": 96,
+      "strechable": true,
+      "washcare": "Hand Wash",
+      "cost": 673
+    },
+    "images": [
+      "cotton"
+    ],
+    
+    "specificationId": "5c7562f11ae3f46ec848f7d0"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Cotton Fabric",
+    "name": "dolor",
+    "description": "Culpa minim nulla sit deserunt magna ea ullamco quis ea occaecat tempor dolore ad. Exercitation velit id excepteur est ullamco pariatur reprehenderit sint est fugiat qui eiusmod fugiat eu. Commodo occaecat in minim ex adipisicing commodo dolor ex tempor dolor eiusmod in cupidatat in. Id laboris in duis adipisicing dolor excepteur ea dolore esse mollit est id proident.",
+    "rating": 3.3434,
+    "spec_data": {
+      "type": "Polyster Cotton",
+      "pattern": "nulla",
+      "color": "green",
+      "gsm": 656,
+      "width": 294,
+      "shrinkage": false,
+      "minorder": 59,
+      "strechable": true,
+      "washcare": "Dry clean",
+      "cost": 722
+    },
+    "images": [
+      "cotton"
+    ],
+    
+    "specificationId": "5c7562f11ae3f46ec848f7d0"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Cotton Fabric",
+    "name": "eiusmod",
+    "description": "Dolore nostrud esse voluptate adipisicing id pariatur dolore. Elit occaecat elit est fugiat sit voluptate eu. Aliqua incididunt ad commodo Lorem Lorem cillum eu.",
+    "rating": 4.7913,
+    "spec_data": {
+      "type": "Cotton kurti",
+      "pattern": "mollit",
+      "color": "yellow",
+      "gsm": 239,
+      "width": 146,
+      "shrinkage": false,
+      "minorder": 65,
+      "strechable": false,
+      "washcare": "Machine",
+      "cost": 799
+    },
+    "images": [
+      "cotton"
+    ],
+    
+    "specificationId": "5c7562f11ae3f46ec848f7d0"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Cotton Fabric",
+    "name": "duis",
+    "description": "Do officia exercitation Lorem nulla et esse consectetur Lorem mollit. Fugiat dolor officia ipsum sunt duis veniam laboris voluptate consequat. Eu proident ea incididunt adipisicing elit ut.",
+    "rating": 0.9956,
+    "spec_data": {
+      "type": "Cotton linen",
+      "pattern": "eu",
+      "color": "brown",
+      "gsm": 512,
+      "width": 619,
+      "shrinkage": true,
+      "minorder": 43,
+      "strechable": true,
+      "washcare": "Dry clean",
+      "cost": 568
+    },
+    "images": [
+      "cotton"
+    ],
+    
+    "specificationId": "5c7562f11ae3f46ec848f7d0"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Cotton Fabric",
+    "name": "officia",
+    "description": "Laboris anim magna proident excepteur amet nostrud reprehenderit ad ullamco qui voluptate. Commodo ipsum quis mollit Lorem eu do ad incididunt quis nostrud. Et Lorem sint culpa excepteur occaecat sunt. Culpa deserunt eu laborum tempor et sit nostrud ad reprehenderit ullamco aliqua.",
+    "rating": 4.6819,
+    "spec_data": {
+      "type": "Polyster Cotton",
+      "pattern": "elit",
+      "color": "green",
+      "gsm": 508,
+      "width": 836,
+      "shrinkage": false,
+      "minorder": 73,
+      "strechable": true,
+      "washcare": "Machine",
+      "cost": 596
+    },
+    "images": [
+      "cotton"
+    ],
+    
+    "specificationId": "5c7562f11ae3f46ec848f7d0"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Cotton Fabric",
+    "name": "anim",
+    "description": "Incididunt enim tempor aliqua sit incididunt incididunt incididunt do. Proident consequat cillum cupidatat enim veniam dolore. Ut ea pariatur commodo incididunt amet mollit nulla est occaecat aute nulla aliqua ut. Lorem id eiusmod laboris ut fugiat labore consectetur dolor ipsum aliquip nulla deserunt exercitation anim. Aute voluptate elit tempor labore ipsum incididunt ut aliqua. Consequat culpa voluptate elit deserunt.",
+    "rating": 1.9481,
+    "spec_data": {
+      "type": "Polyster Cotton",
+      "pattern": "reprehenderit",
+      "color": "red",
+      "gsm": 484,
+      "width": 754,
+      "shrinkage": true,
+      "minorder": 18,
+      "strechable": false,
+      "washcare": "Machine",
+      "cost": 252
+    },
+    "images": [
+      "cotton"
+    ],
+    
+    "specificationId": "5c7562f11ae3f46ec848f7d0"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Cotton Fabric",
+    "name": "qui",
+    "description": "Dolore ullamco cillum labore exercitation reprehenderit ullamco. Minim voluptate sunt est irure ipsum reprehenderit. Laboris dolore ea ipsum proident anim veniam sint dolore anim in ullamco.",
+    "rating": 4.3089,
+    "spec_data": {
+      "type": "Cotton linen",
+      "pattern": "id",
+      "color": "brown",
+      "gsm": 910,
+      "width": 500,
+      "shrinkage": false,
+      "minorder": 62,
+      "strechable": false,
+      "washcare": "Machine",
+      "cost": 396
+    },
+    "images": [
+      "cotton"
+    ],
+    
+    "specificationId": "5c7562f11ae3f46ec848f7d0"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Cotton Fabric",
+    "name": "laboris",
+    "description": "Dolore dolor officia incididunt consequat qui aute ex pariatur irure. Duis laboris aliqua ad fugiat. Quis fugiat Lorem pariatur nisi Lorem do minim ullamco sunt laboris deserunt culpa sit. Amet ut proident quis anim dolor mollit non cupidatat in. Duis irure eiusmod est pariatur adipisicing velit do adipisicing.",
+    "rating": 2.3159,
+    "spec_data": {
+      "type": "cotton shirting",
+      "pattern": "ex",
+      "color": "red",
+      "gsm": 793,
+      "width": 198,
+      "shrinkage": false,
+      "minorder": 31,
+      "strechable": true,
+      "washcare": "Hand Wash",
+      "cost": 563
+    },
+    "images": [
+      "cotton"
+    ],
+    
+    "specificationId": "5c7562f11ae3f46ec848f7d0"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Cotton Fabric",
+    "name": "velit",
+    "description": "Incididunt sunt Lorem irure nostrud elit amet consectetur occaecat ut nostrud dolore occaecat reprehenderit cupidatat. Pariatur aliqua quis id dolore amet duis. Amet occaecat ipsum laborum aute consectetur Lorem reprehenderit anim aute culpa magna. Amet elit tempor ea voluptate commodo magna culpa ullamco labore ut nostrud tempor in consectetur.",
+    "rating": 2.6328,
+    "spec_data": {
+      "type": "Floral",
+      "pattern": "magna",
+      "color": "green",
+      "gsm": 307,
+      "width": 188,
+      "shrinkage": true,
+      "minorder": 65,
+      "strechable": true,
+      "washcare": "Hand Wash",
+      "cost": 758
+    },
+    "images": [
+      "cotton"
+    ],
+    
+    "specificationId": "5c7562f11ae3f46ec848f7d0"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Cotton Fabric",
+    "name": "Lorem",
+    "description": "Nulla commodo consectetur nisi eiusmod. Est consequat dolor labore excepteur culpa sunt eiusmod pariatur eiusmod quis ipsum est et amet. Enim et veniam id enim culpa culpa. Velit tempor et id ullamco magna Lorem. Eu aute cupidatat cupidatat aliquip laboris do sit ullamco ipsum esse amet excepteur ullamco adipisicing. Id commodo non minim sunt laborum deserunt qui ex ipsum dolore. Proident exercitation non ut dolor do excepteur Lorem et.",
+    "rating": 4.9027,
+    "spec_data": {
+      "type": "cotton shirting",
+      "pattern": "ea",
+      "color": "brown",
+      "gsm": 305,
+      "width": 105,
+      "shrinkage": false,
+      "minorder": 37,
+      "strechable": false,
+      "washcare": "Machine",
+      "cost": 734
+    },
+    "images": [
+      "cotton"
+    ],
+    
+    "specificationId": "5c7562f11ae3f46ec848f7d0"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Cotton Fabric",
+    "name": "est",
+    "description": "Qui sint Lorem reprehenderit quis do ullamco. Exercitation irure mollit sunt occaecat. Nostrud cillum consectetur Lorem aute ipsum ipsum. Ullamco Lorem labore excepteur nulla quis ea non ullamco deserunt.",
+    "rating": 2.4999,
+    "spec_data": {
+      "type": "Cotton linen",
+      "pattern": "magna",
+      "color": "green",
+      "gsm": 474,
+      "width": 328,
+      "shrinkage": true,
+      "minorder": 60,
+      "strechable": true,
+      "washcare": "Hand Wash",
+      "cost": 618
+    },
+    "images": [
+      "cotton"
+    ],
+    
+    "specificationId": "5c7562f11ae3f46ec848f7d0"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Cotton Fabric",
+    "name": "duis",
+    "description": "Incididunt ex tempor incididunt tempor reprehenderit labore elit. Occaecat laboris non labore enim ad dolore dolore eu duis nostrud veniam. Aliquip elit magna laboris laboris cupidatat. Duis ex laborum nisi esse esse eu. Excepteur est do et incididunt occaecat ex.",
+    "rating": 4.489,
+    "spec_data": {
+      "type": "Organic cotton",
+      "pattern": "dolor",
+      "color": "blue",
+      "gsm": 113,
+      "width": 500,
+      "shrinkage": false,
+      "minorder": 10,
+      "strechable": false,
+      "washcare": "Machine",
+      "cost": 218
+    },
+    "images": [
+      "cotton"
+    ],
+    
+    "specificationId": "5c7562f11ae3f46ec848f7d0"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Cotton Fabric",
+    "name": "occaecat",
+    "description": "Ipsum est adipisicing dolore est ad nostrud id labore excepteur veniam adipisicing id quis anim. Exercitation aliquip eiusmod eiusmod officia nisi ea ipsum. Velit ex esse excepteur amet exercitation ut proident. Et deserunt sint fugiat Lorem incididunt eu reprehenderit proident nulla sunt adipisicing enim fugiat amet. Culpa amet voluptate ad laborum dolore in cupidatat id magna incididunt labore et Lorem. Exercitation duis deserunt sit sunt ea est in nulla consequat deserunt. Ut enim officia qui eu sunt.",
+    "rating": 3.0476,
+    "spec_data": {
+      "type": "Organic cotton",
+      "pattern": "et",
+      "color": "yellow",
+      "gsm": 675,
+      "width": 873,
+      "shrinkage": false,
+      "minorder": 54,
+      "strechable": false,
+      "washcare": "Dry clean",
+      "cost": 529
+    },
+    "images": [
+      "cotton"
+    ],
+    
+    "specificationId": "5c7562f11ae3f46ec848f7d0"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Cotton Fabric",
+    "name": "culpa",
+    "description": "Sunt consequat occaecat proident tempor incididunt occaecat ea exercitation. In veniam occaecat proident exercitation mollit id occaecat in cillum nisi ea. Consequat elit cupidatat duis do elit. Nostrud pariatur consequat sit mollit cillum est excepteur exercitation nostrud aute commodo. Excepteur non consectetur anim anim dolore commodo. Et quis deserunt officia proident ipsum officia consectetur id occaecat non anim sit.",
+    "rating": 3.6908,
+    "spec_data": {
+      "type": "Cotton kurti",
+      "pattern": "anim",
+      "color": "red",
+      "gsm": 195,
+      "width": 988,
+      "shrinkage": false,
+      "minorder": 28,
+      "strechable": false,
+      "washcare": "Dry clean",
+      "cost": 455
+    },
+    "images": [
+      "cotton"
+    ],
+    
+    "specificationId": "5c7562f11ae3f46ec848f7d0"
+  },
+  {
+    
+    "type": "Cotton",
+    "sub_type": "Cotton Fabric",
+    "name": "quis",
+    "description": "Sunt id commodo pariatur ea esse occaecat. Ex consequat in est enim commodo laboris aliquip velit commodo aliquip sunt. Sint est proident veniam deserunt consectetur fugiat deserunt amet. Elit voluptate incididunt esse voluptate ea dolor mollit amet in reprehenderit adipisicing. Anim proident amet elit elit ad voluptate duis anim. Excepteur dolor consequat Lorem in amet nisi veniam sunt incididunt excepteur nulla est. Lorem elit consequat veniam excepteur esse ex sint quis.",
+    "rating": 2.4263,
+    "spec_data": {
+      "type": "cotton shirting",
+      "pattern": "cillum",
+      "color": "green",
+      "gsm": 466,
+      "width": 149,
+      "shrinkage": false,
+      "minorder": 77,
+      "strechable": true,
+      "washcare": "Machine",
+      "cost": 449
+    },
+    "images": [
+      "cotton"
+    ],
+    
+    "specificationId": "5c7562f11ae3f46ec848f7d0"
+  }
+]

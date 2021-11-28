@@ -1,0 +1,21 @@
+{
+  "name": "user",
+  "plural": "user",
+  "base": "User",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true,
+    "restrictResetPasswordTokenScope": true,
+    "emailVerificationRequired": true
+  },
+  "properties": {
+    "realm": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

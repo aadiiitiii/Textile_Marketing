@@ -1,0 +1,278 @@
+[
+  {
+    "copyright":"987654321",
+    "type": "Wool",
+    "sub_type": "Raw wool",
+    "name": "nulla",
+    "description": "Eiusmod esse ipsum anim consequat ullamco ullamco. Excepteur sint occaecat ea eu aute sit veniam. Eu anim et deserunt veniam est veniam excepteur dolore pariatur. Minim ut enim culpa elit mollit adipisicing ex. Sint adipisicing ut aliqua id. In amet do reprehenderit excepteur consequat occaecat reprehenderit excepteur magna eu labore. Sit sit aliqua dolore commodo excepteur qui ullamco enim minim amet culpa veniam sunt.",
+    "rating": 4.8234,
+    "spec_data": {
+      "type": "Angora",
+      "color": "red",
+      "fiber_Length": 10,
+      "brand": "aute",
+      "fineness": 191,
+      "density": 58,
+      "cost": 528,
+      "Minorder": 86
+    },
+    "images": [
+      "rawwool"
+    ],
+    
+    "specificationId": "5c7562711ae3f46ec848f7cf"
+  },
+  {
+    "copyright":"987654321",
+    "type": "Wool",
+    "sub_type": "Raw wool",
+    "name": "veniam",
+    "description": "Et reprehenderit irure voluptate est amet. Fugiat proident et culpa sit cupidatat aliqua. Deserunt officia eiusmod laboris labore pariatur cupidatat nulla elit enim et est qui. Laboris ex cupidatat enim commodo qui sunt in. Dolor irure officia nisi voluptate nulla veniam dolore voluptate irure nulla. Aliqua sint voluptate elit non est culpa adipisicing.",
+    "rating": 3.062,
+    "spec_data": {
+      "type": "Alpaca",
+      "color": "red",
+      "fiber_Length": 96,
+      "brand": "id",
+      "fineness": 158,
+      "density": 60,
+      "cost": 450,
+      "Minorder": 72
+    },
+    "images": [
+      "rawwool"
+    ],
+    
+    "specificationId": "5c7562711ae3f46ec848f7cf"
+  },
+  {
+    "copyright":"987654321",
+    "type": "Wool",
+    "sub_type": "Raw wool",
+    "name": "cupidatat",
+    "description": "Nostrud enim amet laborum sunt exercitation veniam cupidatat nulla et non. Ut velit fugiat qui occaecat Lorem. Voluptate nostrud pariatur ipsum est qui officia sunt proident dolor officia. Voluptate mollit ullamco do Lorem occaecat laboris fugiat. Ut dolor minim consectetur deserunt anim cillum. Nisi aliquip mollit qui officia excepteur sit Lorem sit Lorem amet et incididunt voluptate nostrud. Eiusmod aute cupidatat amet cillum et dolor ad quis aliquip.",
+    "rating": 0.5609,
+    "spec_data": {
+      "type": "Angora",
+      "color": "blue",
+      "fiber_Length": 30,
+      "brand": "excepteur",
+      "fineness": 174,
+      "density": 53,
+      "cost": 701,
+      "Minorder": 23
+    },
+    "images": [
+      "rawwool"
+    ],
+    
+    "specificationId": "5c7562711ae3f46ec848f7cf"
+  },
+  {
+    "copyright":"987654321",
+    "type": "Wool",
+    "sub_type": "Raw wool",
+    "name": "Lorem",
+    "description": "Ea est commodo eiusmod proident nostrud laboris labore elit culpa laboris laborum eiusmod. Excepteur eu deserunt minim laborum ex enim fugiat amet in. Ullamco et culpa anim deserunt et mollit occaecat nulla dolore incididunt quis. Qui fugiat voluptate ut cupidatat commodo mollit aute ullamco quis aliqua pariatur mollit laborum.",
+    "rating": 2.7706,
+    "spec_data": {
+      "type": "Angora",
+      "color": "yellow",
+      "fiber_Length": 11,
+      "brand": "reprehenderit",
+      "fineness": 134,
+      "density": 15,
+      "cost": 395,
+      "Minorder": 31
+    },
+    "images": [
+      "rawwool"
+    ],
+    
+    "specificationId": "5c7562711ae3f46ec848f7cf"
+  },
+  {
+    "copyright":"987654321",
+    "type": "Wool",
+    "sub_type": "Raw wool",
+    "name": "laboris",
+    "description": "Est tempor enim proident ea labore. Incididunt tempor exercitation ipsum est nisi incididunt mollit. Quis Lorem irure officia excepteur commodo quis. Eiusmod cupidatat esse duis ut occaecat. Sit tempor et sint dolor incididunt proident cillum consequat. Aliquip cupidatat incididunt in cillum ad. Magna officia velit dolor esse ad est incididunt ut aliqua mollit ullamco officia dolore esse.",
+    "rating": 0.6859,
+    "spec_data": {
+      "type": "Cashmere",
+      "color": "brown",
+      "fiber_Length": 22,
+      "brand": "cupidatat",
+      "fineness": 82,
+      "density": 68,
+      "cost": 658,
+      "Minorder": 33
+    },
+    "images": [
+      "rawwool"
+    ],
+    
+    "specificationId": "5c7562711ae3f46ec848f7cf"
+  },
+  {
+    
+    "type": "Wool",
+    "sub_type": "Raw wool",
+    "name": "labore",
+    "description": "Eu adipisicing occaecat voluptate adipisicing duis nulla in. Esse in voluptate esse qui amet sit ut duis velit voluptate anim. Qui veniam incididunt pariatur ipsum. Lorem adipisicing irure labore fugiat sint magna officia aliquip id velit. Fugiat est excepteur dolor irure eiusmod. Veniam amet adipisicing tempor velit eiusmod. In incididunt labore veniam adipisicing id labore consectetur irure sunt cupidatat consectetur adipisicing labore.",
+    "rating": 3.723,
+    "spec_data": {
+      "type": "Cashmere",
+      "color": "green",
+      "fiber_Length": 95,
+      "brand": "non",
+      "fineness": 42,
+      "density": 33,
+      "cost": 757,
+      "Minorder": 24
+    },
+    "images": [
+      "rawwool"
+    ],
+    
+    "specificationId": "5c7562711ae3f46ec848f7cf"
+  },
+  {
+    
+    "type": "Wool",
+    "sub_type": "Raw wool",
+    "name": "mollit",
+    "description": "Eu proident qui elit anim ut in id officia deserunt ad eiusmod. Esse quis reprehenderit do laborum deserunt adipisicing reprehenderit dolore. Quis do aliquip in culpa incididunt cillum tempor consequat adipisicing aliqua. Cupidatat est elit veniam culpa occaecat. Fugiat do qui deserunt fugiat ea adipisicing. Dolor occaecat irure reprehenderit mollit dolor proident non magna ut do irure cillum in sint.",
+    "rating": 4.6559,
+    "spec_data": {
+      "type": "Angora",
+      "color": "brown",
+      "fiber_Length": 28,
+      "brand": "excepteur",
+      "fineness": 163,
+      "density": 17,
+      "cost": 200,
+      "Minorder": 63
+    },
+    "images": [
+      "rawwool"
+    ],
+    
+    "specificationId": "5c7562711ae3f46ec848f7cf"
+  },
+  {
+    
+    "type": "Wool",
+    "sub_type": "Raw wool",
+    "name": "adipisicing",
+    "description": "Consequat culpa pariatur ad nisi amet aute reprehenderit. Do eiusmod excepteur elit excepteur duis pariatur et. Consequat id id culpa veniam ullamco ullamco non aliquip irure amet anim ex excepteur.",
+    "rating": 1.044,
+    "spec_data": {
+      "type": "Cashmere",
+      "color": "yellow",
+      "fiber_Length": 76,
+      "brand": "velit",
+      "fineness": 88,
+      "density": 69,
+      "cost": 389,
+      "Minorder": 68
+    },
+    "images": [
+      "rawwool"
+    ],
+    
+    "specificationId": "5c7562711ae3f46ec848f7cf"
+  },
+  {
+    
+    "type": "Wool",
+    "sub_type": "Raw wool",
+    "name": "ullamco",
+    "description": "Duis eu voluptate enim deserunt ullamco et id labore. Dolor cillum irure ut consequat ex aliqua consequat laboris quis est. Aliquip do do non dolore do culpa cillum eiusmod.",
+    "rating": 1.2136,
+    "spec_data": {
+      "type": "Alpaca",
+      "color": "red",
+      "fiber_Length": 80,
+      "brand": "velit",
+      "fineness": 122,
+      "density": 88,
+      "cost": 418,
+      "Minorder": 13
+    },
+    "images": [
+      "rawwool"
+    ],
+    
+    "specificationId": "5c7562711ae3f46ec848f7cf"
+  },
+  {
+    
+    "type": "Wool",
+    "sub_type": "Raw wool",
+    "name": "est",
+    "description": "Sunt labore deserunt minim pariatur sit culpa voluptate. Fugiat reprehenderit ipsum dolore commodo. Exercitation incididunt commodo consectetur commodo sint ut laboris cillum ex nostrud commodo do duis.",
+    "rating": 3.2699,
+    "spec_data": {
+      "type": "Angora",
+      "color": "yellow",
+      "fiber_Length": 25,
+      "brand": "aute",
+      "fineness": 76,
+      "density": 30,
+      "cost": 444,
+      "Minorder": 30
+    },
+    "images": [
+      "rawwool"
+    ],
+    
+    "specificationId": "5c7562711ae3f46ec848f7cf"
+  },
+  {
+    
+    "type": "Wool",
+    "sub_type": "Raw wool",
+    "name": "mollit",
+    "description": "Ipsum ex ipsum est veniam velit fugiat labore mollit nisi amet consectetur proident tempor irure. Reprehenderit est laborum ipsum sint eu ipsum fugiat ad sunt excepteur et voluptate eu. Lorem nostrud anim tempor irure dolor proident magna ut labore adipisicing fugiat officia. Ex minim dolore est ullamco minim adipisicing veniam exercitation. Duis aliquip officia nulla anim dolor est qui irure enim aliquip enim magna. Sit aliquip culpa ipsum veniam veniam excepteur in incididunt est aute consectetur.",
+    "rating": 3.0385,
+    "spec_data": {
+      "type": "Alpaca",
+      "color": "green",
+      "fiber_Length": 84,
+      "brand": "id",
+      "fineness": 84,
+      "density": 34,
+      "cost": 628,
+      "Minorder": 46
+    },
+    "images": [
+      "rawwool"
+    ],
+    
+    "specificationId": "5c7562711ae3f46ec848f7cf"
+  },
+  {
+    
+    "type": "Wool",
+    "sub_type": "Raw wool",
+    "name": "pariatur",
+    "description": "Lorem est in consequat ex. Irure et voluptate ad cillum ullamco eu ullamco minim eiusmod excepteur aute in irure. Dolore Lorem ex excepteur mollit. Voluptate do excepteur cillum fugiat exercitation fugiat qui nulla. Proident cupidatat sit proident do reprehenderit ea laborum ea ullamco aliqua. Eiusmod cillum aliquip sunt ad commodo commodo aute ipsum ad. Pariatur et sint excepteur sit ullamco non pariatur.",
+    "rating": 4.011,
+    "spec_data": {
+      "type": "Cashmere",
+      "color": "brown",
+      "fiber_Length": 51,
+      "brand": "labore",
+      "fineness": 169,
+      "density": 36,
+      "cost": 235,
+      "Minorder": 18
+    },
+    "images": [
+      "rawwool"
+    ],
+    
+    "specificationId": "5c7562711ae3f46ec848f7cf"
+  }
+]

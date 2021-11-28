@@ -1,0 +1,422 @@
+[
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "reprehenderit",
+    "description": "Eiusmod esse dolore in ullamco fugiat tempor minim ex nulla enim anim et aliquip. Commodo reprehenderit labore est deserunt aute sint tempor cupidatat esse duis cupidatat Lorem aliquip irure. Lorem fugiat reprehenderit nostrud amet laborum. Reprehenderit id aliquip in veniam non. Laborum id reprehenderit anim eu reprehenderit in ea occaecat sit ut mollit.",
+    "rating": 1.5831,
+    "spec_data": {
+      "color": "Blue",
+      "minorder": 83,
+      "gsm": 320,
+      "width": 375,
+      "washcare": "Hand Wash",
+      "cost": 259
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a1a",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b26cadcc6017630e69a4",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "eiusmod",
+    "description": "Reprehenderit deserunt occaecat eu labore incididunt incididunt officia elit anim. Nulla reprehenderit nulla deserunt aute labore anim anim irure occaecat laboris eiusmod. Minim ad exercitation esse dolor esse. Nostrud consequat ad cupidatat dolor ut laborum enim irure veniam Lorem ex sunt qui. Velit duis esse consequat anim reprehenderit enim nostrud eu magna cillum ut dolore. Sit officia dolore nulla adipisicing sint irure ex ad. Aliquip quis commodo ipsum nostrud ex et.",
+    "rating": 0.3508,
+    "spec_data": {
+      "color": "yellow",
+      "minorder": 46,
+      "gsm": 980,
+      "width": 558,
+      "washcare": "Hand Wash",
+      "cost": 339
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a1b",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b26cadcc6017630e69a4",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "anim",
+    "description": "Ipsum Lorem sit tempor anim voluptate sit ullamco fugiat pariatur occaecat culpa ipsum do. Velit culpa eiusmod est occaecat commodo laboris commodo id nisi occaecat anim labore adipisicing. Quis minim ipsum incididunt veniam Lorem sunt nostrud.",
+    "rating": 1.1052,
+    "spec_data": {
+      "color": "Green",
+      "minorder": 70,
+      "gsm": 76,
+      "width": 700,
+      "washcare": "Hand Wash",
+      "cost": 706
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a1c",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "culpa",
+    "description": "Est tempor ipsum reprehenderit do deserunt esse duis non fugiat dolore. Laborum proident aliqua cillum fugiat magna fugiat ipsum aliquip. Qui est mollit occaecat reprehenderit sunt incididunt do ullamco nisi in consectetur sunt esse. Proident occaecat magna fugiat duis in veniam mollit dolore velit. Proident reprehenderit cillum consectetur voluptate tempor qui fugiat. Commodo enim non Lorem ut duis eu nostrud eu ex enim qui exercitation veniam voluptate. Fugiat excepteur laboris sint aliqua do.",
+    "rating": 4.4809,
+    "spec_data": {
+      "color": "Green",
+      "minorder": 64,
+      "gsm": 218,
+      "width": 611,
+      "washcare": "Dry clean",
+      "cost": 915
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a1d",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "aliquip",
+    "description": "Irure mollit ipsum eiusmod mollit ex nostrud commodo elit consequat irure exercitation aliqua. In ad ea elit nulla cupidatat officia est. Dolore laborum cupidatat laborum adipisicing tempor non do non dolore esse non aute. Elit labore consequat commodo adipisicing officia velit occaecat. Magna do dolor ea tempor minim.",
+    "rating": 1.7099,
+    "spec_data": {
+      "color": "Green",
+      "minorder": 37,
+      "gsm": 844,
+      "width": 632,
+      "washcare": "Hand Wash",
+      "cost": 33
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a1e",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "officia",
+    "description": "Adipisicing nulla ea anim dolore dolor ut velit enim veniam. Cupidatat deserunt deserunt do esse laboris labore ipsum deserunt proident. Reprehenderit minim consequat enim reprehenderit mollit enim aliquip in aliquip esse velit.",
+    "rating": 1.5159,
+    "spec_data": {
+      "color": "yellow",
+      "minorder": 56,
+      "gsm": 305,
+      "width": 355,
+      "washcare": "Dry clean",
+      "cost": 778
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a1f",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "mollit",
+    "description": "Consequat cillum culpa duis ea id pariatur. Tempor eu elit irure ut Lorem dolor magna id elit. Sunt elit do dolor ea dolore incididunt magna qui minim deserunt exercitation. In aliqua elit ex magna consectetur ex. Culpa veniam laborum dolor fugiat ex eiusmod veniam consequat nisi. Officia tempor eu mollit excepteur labore culpa commodo aliquip minim officia ad veniam. Proident elit amet pariatur dolore est dolor irure anim pariatur laborum pariatur culpa aute esse.",
+    "rating": 3.6647,
+    "spec_data": {
+      "color": "Green",
+      "minorder": 93,
+      "gsm": 575,
+      "width": 721,
+      "washcare": "Dry clean",
+      "cost": 26
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a20",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "ea",
+    "description": "Sit pariatur officia eu in fugiat mollit Lorem laborum enim aliquip dolore elit. Laboris aliqua est non non nisi nisi ea ad eiusmod non. Proident fugiat laboris eu laboris velit velit. Reprehenderit ullamco amet ad esse. Pariatur excepteur anim minim nisi qui in excepteur sit mollit amet commodo nulla consequat deserunt. Dolor cupidatat laboris deserunt tempor est veniam ea nulla proident duis fugiat ullamco.",
+    "rating": 1.869,
+    "spec_data": {
+      "color": "Blue",
+      "minorder": 86,
+      "gsm": 239,
+      "width": 236,
+      "washcare": "Hand Wash",
+      "cost": 911
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a21",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "labore",
+    "description": "Occaecat laboris mollit in minim. Sint aliquip in ut anim labore officia veniam aliquip fugiat esse eiusmod. Culpa esse sunt ad cupidatat esse dolor. Sint culpa pariatur eu laboris aute amet nisi sunt aliquip id. In anim adipisicing nulla ullamco laboris sit minim reprehenderit consequat anim aute.",
+    "rating": 1.7304,
+    "spec_data": {
+      "color": "Green",
+      "minorder": 16,
+      "gsm": 176,
+      "width": 571,
+      "washcare": "Machine",
+      "cost": 866
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a22",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "id",
+    "description": "Excepteur reprehenderit pariatur tempor id culpa reprehenderit enim labore. Nulla culpa elit ea quis aliqua qui ea. Aliqua est officia ullamco veniam quis dolor velit duis commodo. Nulla id sit laborum nostrud dolor amet fugiat qui sint.",
+    "rating": 4.5172,
+    "spec_data": {
+      "color": "Blue",
+      "minorder": 93,
+      "gsm": 832,
+      "width": 777,
+      "washcare": "Hand Wash",
+      "cost": 405
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a23",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "adipisicing",
+    "description": "Culpa qui excepteur dolor et dolor aliquip aliqua Lorem excepteur pariatur pariatur. Ea amet ad reprehenderit ut eu do aliqua qui magna nulla ad adipisicing. Velit culpa sit reprehenderit non qui ullamco ad anim voluptate adipisicing culpa reprehenderit. Ut est tempor minim non veniam. Officia aliquip ut ad et irure tempor. Fugiat aliquip pariatur elit do consectetur culpa laborum fugiat consequat velit velit incididunt.",
+    "rating": 1.4299,
+    "spec_data": {
+      "color": "yellow",
+      "minorder": 65,
+      "gsm": 708,
+      "width": 220,
+      "washcare": "Dry clean",
+      "cost": 408
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a24",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "commodo",
+    "description": "In fugiat commodo aute cupidatat cupidatat fugiat labore aute occaecat mollit eiusmod dolor. Voluptate reprehenderit nisi officia nulla est mollit reprehenderit velit dolor velit. Ut minim deserunt qui nulla elit ea proident et deserunt sint fugiat ex.",
+    "rating": 0.2451,
+    "spec_data": {
+      "color": "Blue",
+      "minorder": 48,
+      "gsm": 607,
+      "width": 292,
+      "washcare": "Hand Wash",
+      "cost": 617
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a25",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "ea",
+    "description": "Ipsum reprehenderit aliqua Lorem nostrud elit duis anim et consectetur sint velit exercitation. Deserunt minim id pariatur minim cillum aliquip Lorem proident exercitation officia. Esse esse est magna est duis mollit labore. Excepteur minim do aliquip do commodo ea. Nisi proident aute ea consectetur.",
+    "rating": 2.6137,
+    "spec_data": {
+      "color": "Green",
+      "minorder": 36,
+      "gsm": 386,
+      "width": 691,
+      "washcare": "Machine",
+      "cost": 406
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a26",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "cupidatat",
+    "description": "Et duis elit laboris enim anim tempor ad aute reprehenderit veniam sit quis elit. Nisi sint ut velit ipsum veniam occaecat duis cupidatat. Qui exercitation esse do in labore exercitation ut. Aliqua exercitation amet consectetur aliquip adipisicing velit mollit enim veniam labore elit incididunt cupidatat. Aute proident aliquip ad ex aute. Occaecat magna Lorem qui cupidatat tempor est est ullamco in eu pariatur voluptate laboris adipisicing.",
+    "rating": 0.2293,
+    "spec_data": {
+      "color": "Blue",
+      "minorder": 31,
+      "gsm": 381,
+      "width": 337,
+      "washcare": "Hand Wash",
+      "cost": 35
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a27",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "laboris",
+    "description": "Cupidatat aute aliqua nulla sunt officia ut cillum dolore eu id excepteur. Quis ea cupidatat tempor laboris elit labore ut cupidatat ea ullamco voluptate amet Lorem Lorem. Ad dolore sunt dolor elit laboris ullamco dolore esse incididunt exercitation tempor ea occaecat. Laborum eiusmod ut in eu Lorem Lorem commodo reprehenderit ea. Ullamco aute laborum velit voluptate qui non labore excepteur nulla id. Laborum proident in esse aliquip pariatur cillum incididunt in irure occaecat.",
+    "rating": 0.6182,
+    "spec_data": {
+      "color": "yellow",
+      "minorder": 78,
+      "gsm": 905,
+      "width": 256,
+      "washcare": "Hand Wash",
+      "cost": 908
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a28",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b389adcc6017630e69a9",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "nostrud",
+    "description": "Id anim minim cupidatat ut. Cillum do aute labore veniam adipisicing laborum. Elit duis deserunt elit incididunt incididunt ea irure ex cupidatat nisi aute et Lorem. Consequat occaecat eiusmod aute ex fugiat laboris aliquip adipisicing sit reprehenderit.",
+    "rating": 4.871,
+    "spec_data": {
+      "color": "Blue",
+      "minorder": 97,
+      "gsm": 520,
+      "width": 684,
+      "washcare": "Dry clean",
+      "cost": 489
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a29",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b318adcc6017630e69a6",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "officia",
+    "description": "Adipisicing anim fugiat culpa velit ipsum ipsum cillum officia id enim deserunt. Elit aute ad commodo ullamco sint dolor proident sunt veniam. Ullamco minim consectetur esse voluptate eu excepteur nostrud. Laboris do pariatur sint Lorem aliquip. Cupidatat consectetur est et cillum commodo voluptate.",
+    "rating": 1.3943,
+    "spec_data": {
+      "color": "Blue",
+      "minorder": 91,
+      "gsm": 687,
+      "width": 510,
+      "washcare": "Hand Wash",
+      "cost": 458
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a2a",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b365adcc6017630e69a8",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "proident",
+    "description": "Non tempor reprehenderit deserunt ullamco enim aute qui elit laboris. Dolore magna enim excepteur ad. Laboris veniam duis ad et ad laborum consectetur sit sit consectetur. Quis occaecat occaecat officia enim dolore Lorem velit ut cillum fugiat exercitation culpa. Deserunt ullamco voluptate esse in officia cillum culpa tempor aliqua nostrud eu cupidatat.",
+    "rating": 4.2116,
+    "spec_data": {
+      "color": "Blue",
+      "minorder": 90,
+      "gsm": 668,
+      "width": 535,
+      "washcare": "Hand Wash",
+      "cost": 104
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a2b",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "occaecat",
+    "description": "Labore commodo laboris eiusmod irure duis eiusmod sunt eiusmod Lorem cupidatat anim. Fugiat incididunt dolor dolore proident magna proident ex. Reprehenderit ipsum ut officia enim adipisicing mollit excepteur. Mollit fugiat id mollit ut nostrud adipisicing. Est deserunt deserunt non non mollit laboris commodo velit commodo. Aliqua adipisicing labore voluptate esse. Sint aute nisi sit sint.",
+    "rating": 2.4725,
+    "spec_data": {
+      "color": "Green",
+      "minorder": 81,
+      "gsm": 672,
+      "width": 378,
+      "washcare": "Dry clean",
+      "cost": 973
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a2c",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  },
+  {
+    "sellerid": "5c77b333adcc6017630e69a7",
+    "type": "Denim",
+    "sub_type": "",
+    "name": "Lorem",
+    "description": "Eu deserunt ut do veniam cillum ullamco sit aliqua. Consectetur laborum consequat dolor duis proident. Sit elit voluptate laboris tempor do est aute minim magna nulla. Aute culpa tempor irure ad esse dolor minim Lorem. Ea excepteur commodo ex cupidatat veniam labore sint fugiat ea ut amet. Proident Lorem nostrud pariatur mollit irure ipsum tempor reprehenderit consectetur fugiat pariatur id.",
+    "rating": 1.9383,
+    "spec_data": {
+      "color": "Green",
+      "minorder": 58,
+      "gsm": 176,
+      "width": 500,
+      "washcare": "Dry clean",
+      "cost": 293
+    },
+    "images": [
+      "denim"
+    ],
+    "id": "5c77e4d3adcc6017630e6a2d",
+    "specificationId": "5c7564491ae3f46ec848f7d1"
+  }
+]
